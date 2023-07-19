@@ -293,40 +293,42 @@
 
 <div class="card">
     
-        <img class="rounded img-fluid mx-auto image" style="height:200px ; width:200px;" src="../assets/img/charity.jpg" />
+        <img class="rounded img-fluid mx-auto image" style="height:200px ; width:200px;" src="../assets/img/chika.jpg" />
         <div class="middle">
             <div class="text rounded">
                
-                <p></p>
+                <p>Administrative Secretary</p>
             </div>
             
         </div>
 
     <div class="card-body text-center">
-        <h5 class="card-title"><b>Ofurum Charity Nkechi</b></h5>
-        <h6> BSC Urban and Regional Planning </h6>
+        <h5 class="card-title"><b>Mrs. Chika Okorie </b></h5>
+        <h6> BSc. Accounting  </h6>
       </div>
 </div>
 </div>
-                
+
+
+
+        
 
             </div>
         </div>
     </div>
 </div>
-<!-- end of about Principal of School-->
 
 
 
 
-<!-- <div class="row">
+
+ <div class="row">
     <div class="container" style="font-family: 'Quicksand', sans-serif; margin-left: 20px;">
-            <h2><b>Junior Leadership Team</b></h2>
+            <h2 class="text-danger" style="padding-left:40px; font-size:35px;"><b>Staff Members</b></h2>
     </div>
-</div> -->
+</div> 
 
-<!-- About Principal of School -->
-<!-- <div class="row">
+ <div class="row">
     <div class="container-fluid">
         <div class="col-12" style="margin-top: 20px; margin-bottom: 20px;" >
           
@@ -335,18 +337,13 @@
 
                     <div class="card">
                         
-                            <img class="rounded img-fluid mx-auto image" src="../assets/img/v62_6045.png" />
-                            <div class="middle">
-                                <div class="text rounded">
-                                    John Doe
-                                    <p>Principal</p>
-                                </div>
-                                
-                            </div>
+                    <img class="rounded img-fluid mx-auto image" style="height:200px ; width:200px;" src="../assets/img/julia.jpg" />
+                            
                     
                         <div class="card-body text-center">
-                            <h5 class="card-title"><b>John Doe</b></h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <h5 class="card-title"><b>Nwachukwu Julia Soromtochim</b></h5>
+                            <p class="card-text">N.C.E Biology/Health Education, ED/Biology 
+                            </p>
                           </div>
                     </div>
                 </div>
@@ -355,18 +352,11 @@
 
                     <div class="card">
                         
-                            <img class="rounded img-fluid mx-auto image" src="../assets/img/v62_6045.png" />
-                            <div class="middle">
-                                <div class="text rounded">
-                                    John Doe
-                                    <p>Principal</p>
-                                </div>
-                                
-                            </div>
-                    
-                        <div class="card-body text-center">
-                            <h5 class="card-title"><b>John Doe</b></h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <img class="rounded img-fluid mx-auto image" style="height:200px ; width:200px;" src="../assets/img/doris.jpg" />
+                           
+                    <div class="card-body text-center">
+                            <h5 class="card-title"><b>Anoka Doris Chinwe</b></h5>
+                            <p class="card-text">B.Ed french Education</p>
                           </div>
                     </div>
                 </div>
@@ -376,18 +366,11 @@
 
                     <div class="card">
                         
-                            <img class="rounded img-fluid mx-auto image" src="../assets/img/v62_6045.png" />
-                            <div class="middle">
-                                <div class="text rounded">
-                                    John Doe
-                                    <p>Principal</p>
-                                </div>
-                                
-                            </div>
+                    <img class="rounded img-fluid mx-auto image" style="height:200px ; width:200px;" src="../assets/img/gold.jpg" />
                     
                         <div class="card-body text-center">
-                            <h5 class="card-title"><b>John Doe</b></h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <h5 class="card-title"><b>Madu Chizitere Gold</b></h5>
+                            <p class="card-text">HND in public Administration</p>
                           </div>
                     </div>
                 </div>
@@ -397,18 +380,11 @@
 
                     <div class="card">
                         
-                            <img class="rounded img-fluid mx-auto image" src="../assets/img/v62_6045.png" />
-                            <div class="middle">
-                                <div class="text rounded">
-                                    John Doe
-                                    <p>Principal</p>
-                                </div>
-                                
-                            </div>
+                    <img class="rounded img-fluid mx-auto image" style="height:200px ; width:200px;" src="../assets/img/nene.jpg" />
                     
                         <div class="card-body text-center">
-                            <h5 class="card-title"><b>John Doe</b></h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <h5 class="card-title"><b>Odibo Chinedu Nene </b></h5>
+                            <p class="card-text">B.Sc., Education Physics</p>
                           </div>
                     </div>
                 </div>
@@ -418,22 +394,91 @@
 
                     <div class="card">
                         
-                            <img class="rounded img-fluid mx-auto image" src="../assets/img/v62_6045.png" />
-                            <div class="middle">
-                                <div class="text rounded">
-                                    John Doe
-                                    <p>Principal</p>
-                                </div>
-                                
-                            </div>
+                    <img class="rounded img-fluid mx-auto image" style="height:200px ; width:200px;" src="../assets/img/ihuoma.jpg" />
                     
                         <div class="card-body text-center">
-                            <h5 class="card-title"><b>John Doe</b></h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <h5 class="card-title"><b>Ihuoma Vincentia Nzubechi</b></h5>
+                            <p class="card-text">B.Sc Business Education</p>
                           </div>
                     </div>
                 </div>
 
+            <div class="col-sm-12 col-md-3"  >
+
+                    <div class="card">
+                        
+                    <img class="rounded img-fluid mx-auto image" style="height:200px ; width:200px;" src="../assets/img/chioma.jpg" />
+                    
+                        <div class="card-body text-center">
+                            <h5 class="card-title"><b>Mrs Alaoma chioma</b></h5>
+                            <p class="card-text">BSC psychology, M SC, Clinical psychology </p>
+                          </div>
+                    </div>
+                </div>
+
+            <div class="col-sm-12 col-md-3"  >
+
+                    <div class="card">
+                        
+                    <img class="rounded img-fluid mx-auto image" style="height:200px ; width:200px;" src="../assets/img/kelechi.jpg" />
+                    
+                        <div class="card-body text-center">
+                            <h5 class="card-title"><b>Alilonu Kelechi Pamela</b></h5>
+                            <p class="card-text">Bsc In Mass communication, PGDE Social Studies, Masters In Mass communication</p>
+                          </div>
+                    </div>
+                </div>
+
+            <div class="col-sm-12 col-md-3"  >
+
+                    <div class="card">
+                        
+                    <img class="rounded img-fluid mx-auto image" style="height:200px ; width:200px;" src="../assets/img/ihe.jpg" />
+                    
+                        <div class="card-body text-center">
+                            <h5 class="card-title"><b>Iheanacho Ngozika</b></h5>
+                            <p class="card-text">Fine and Applied Arts( B.A Hons)</p>
+                          </div>
+                    </div>
+                </div>
+
+            <div class="col-sm-12 col-md-3"  >
+
+                    <div class="card">
+                        
+                    <img class="rounded img-fluid mx-auto image" style="height:200px ; width:200px;" src="../assets/img/diala.jpg" />
+                    
+                        <div class="card-body text-center">
+                            <h5 class="card-title"><b>Ifeanyi Diala</b></h5>
+                            <p class="card-text">HND Business Administration Bsc, Music, University of Nigeria Nsukka</p>
+                          </div>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-3"  >
+
+<div class="card">
+    
+<img class="rounded img-fluid mx-auto image" style="height:200px ; width:200px;" src="../assets/img/festina.jpg" />
+
+    <div class="card-body text-center">
+        <h5 class="card-title"><b>Festina Ibeawuchi</b></h5>
+        <p class="card-text">B.Sc Mass communication</p>
+      </div>
+</div>
+</div>
+
+<div class="col-sm-12 col-md-3"  >
+
+<div class="card">
+    
+<img class="rounded img-fluid mx-auto image" style="height:200px ; width:200px;" src="../assets/img/charity.jpg" />
+
+    <div class="card-body text-center">
+        <h5 class="card-title"><b>Ofurum Charity Nkechi</b></h5>
+        <p class="card-text">BSC Urban and Regional Planning</p>
+      </div>
+</div>
+</div>
             </div>
         </div>
     </div>

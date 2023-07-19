@@ -128,7 +128,7 @@ Bootstrap 4 breakpoints
                         <div class="middle">
                             <div class="text rounded">
                             Secondary Section
-                                <p>Students</p>
+                                
                             </div>
                             
                           </div>
@@ -138,35 +138,33 @@ Bootstrap 4 breakpoints
                 <div class="col-sm-12 col-md-7">
                     <div style="padding-left: 40px; padding-right: 20px; font-size: 18px;">
                         
-                        <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:30px;">Secondary Section</h6>
+                        <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:30px; font-weight:bold;">Secondary Section</h6>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
-                        At Sankt Georg Secondary School, academic excellence is the top priority. The school offers a rigorous and comprehensive curriculum that challenges students to reach their full potential. The teachers are highly qualified and experienced, 
-                        providing students with individualized attention and guidance that helps them to achieve their academic goals.<br /> <br />
+                        The Secondary Section of Sankt Georg International School (SGIS) lays great emphasis on academic excellence and all-round educational development. The school offers a rigorous and comprehensive curriculum that challenges students to reach their full potential. 
+                        The teachers are highly qualified and experienced, providing students with individualized attention and guidance that helps them to achieve their academic goals.<br /> <br />
 
                         The school also offers various extracurricular activities, from sports to clubs and community service programs. These activities provide students with opportunities to develop their leadership skills, build friendships, and explore new interests. 
-                        Many of these programs are led by passionate and knowledgeable teachers, who are committed to helping students grow and succeed in all aspects of their lives.
-                        Another critical feature of Sankt Georg Secondary School is its modern facilities. The school's campus is spacious and well-equipped, 
-                        with state-of-the-art classrooms, science labs, computer rooms, and sports facilities. These resources provide students with the tools they need to learn, explore, and excel in their academic and extracurricular pursuits.
+                        Many of these programs are led by passionate and knowledgeable teachers, who are committed to helping students grow and succeed in all aspects of their lives. Another critical feature of SGIS is its passion for modern facilities. 
+                        The school's environment is spacious and well-equipped, with state-of-the-art classrooms, science labs, computer rooms, library and sports facilities. These resources provide students with the tools they need to learn, explore, and excel in their academic and extracurricular pursuits. 
                         <br /> <br />
+                        Perhaps most importantly, SGIS has a strong culture of respect, inclusivity, and kindness. Students are encouraged to treat each other with empathy and understanding, and the school provides a safe and supportive environment for all students to learn and grow. 
+                        This culture is fostered by the school's dedicated faculty and staff, who serve as role models for students and help to create a positive and welcoming school community. <br /> <br />
 
-                       
+                        The school curriculum is broad-based and is very much in line with the current national curriculum designed to meet the needs of the nation, particularly in the domains of modern science and technology. SGIS has all it takes in terms of human and material resources and state-of-the-art facilities to provide first-class educational services to the students.  
+                        <br /> <br />
+                        Furthermore, SGIS, despite being in existence for just over a year, is adjudged one of the best secondary schools in town for a reason. With its exceptional academic programs, dedicated faculty and staff, modern facilities, and a strong culture of respect and inclusivity, this school provides students with a top-quality education and an exceptional learning experience. 
+                        For parents and students looking for the best possible secondary education, Sankt Georg International Secondary School remains a clear choice. 
 
                         </p>
-
-                       
-
-                        
-                        
+                                               
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </div>
-<!-- end of about Principal of School-->
 
 
-<!-- About Principal of School -->
 <div class="row">
     <div class="container">
         <div class="col-12" style="margin-top: 10px; margin-bottom: 20px;" >
@@ -175,21 +173,7 @@ Bootstrap 4 breakpoints
                 <div class="col-sm-12 col-md-12">
                     <div style="padding-left: 40px; padding-right: 20px; font-size: 18px;">
                         
-                        <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
-                        Perhaps most importantly, Sankt Georg Secondary School has a strong culture of respect, inclusivity, and kindness. Students are encouraged to treat each other with empathy and understanding, and the school provides a safe and supportive environment for all students to learn and grow. This culture is fostered by the school's dedicated faculty and staff, who serve as role models for students and help to create a positive and welcoming school community.
-                        <br /><br />
-                        In conclusion, Sankt Georg Secondary School is the best secondary school in town for a reason. With its exceptional academic programs, dedicated faculty and staff, modern facilities, and a strong culture of respect and inclusivity, this school provides students with a top-quality education and an exceptional learning experience. For parents and students looking for the best possible secondary education, Sankt Georg Secondary School is a clear choice.
-                        </p>
-
-                        <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
-                        The school curriculum is broad-based and is very much in line with the current national curriculum designed to meet the needs of the nation, 
-                        particularly in the domains of modern science and technology.
-                        </p>
-                        <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
-                        The school has all it takes in terms of human and material resources and state-of-the-art facilities to provide first-class educational services to the students.
-                        </p>
-
-                        <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:30px;">Curriculum </h6>
+                        <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:30px; font-weight:bold;">Curriculum </h6>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                         The curriculum which usually answers the “WHAT” (do we teach) question of education comprises three parts, namely :
                         <ul>
@@ -197,7 +181,7 @@ Bootstrap 4 breakpoints
                             The CORE Curriculum (which deals with examinable subjects)-i.e. the Cognitive Domain
                             </li>
                             <li>
-                            The CO-Curriculum (which deals with sports and games, labor, societies and clubs, and associations)-i.e. the Psychomotor Domain                  
+                            The CO-Curriculum (which deals with sports and games, labour, societies and clubs, and associations)-i.e. the Psychomotor Domain                  
                             </li>
                             <li>
                             The HIDDEN Curriculum (which deals with attitudes and experiences that can be assimilated)-i.e. the Affective Domain

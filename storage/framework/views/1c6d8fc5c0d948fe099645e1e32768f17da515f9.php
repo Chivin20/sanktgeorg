@@ -133,7 +133,7 @@
               <a href="/aboutus">About the School</a>
             </li>
             <li>
-              <a href="/">Academic Department</a>
+              <a href="/calendar">Academic Calendar</a>
             </li>
             <!--
             <li>

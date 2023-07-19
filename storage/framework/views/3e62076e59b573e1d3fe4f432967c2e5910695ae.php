@@ -45,8 +45,11 @@
                             <h6>First Term</h6>
                         </div>
                         <div class="col-9">
-                            <h6>Monday 4 December 2021 - Friday 21 March 2022</h6>
-                            <p>School Resumes: Monday 1 April 2022</p>
+                            <h6>Thursday 7th of September 2023 - Friday 15th of December 2023</h6>
+                            <p>School Resumes: Thursday 7 September 2023
+                            </br>Boarders return on Sunday, 10th September 2023</p>
+
+
 
                             <div class = "col-3">
                                 <div class="dropdown">
@@ -118,7 +121,7 @@
                 </div>
                 
                 <div class="mt-4">
-                    <p>*Boarders returns a day before the term start</p>
+                   
                     <p class="text-danger">Dates of Session 2022 - 2023</p>
                 </div>
                

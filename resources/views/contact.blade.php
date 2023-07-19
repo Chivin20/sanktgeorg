@@ -26,12 +26,12 @@
                                 <div class="col-9">
                             <p style = "text-align:justify;">
                             The school situates far from the teaming crowd with its associated buzz and activities at Owerri metropolis. 
-                            It is in an area devoid of distractions along Port-Harcourt Road Owerri in a small community(Umuijem) in Avu town. 
+                            It is located in an area devoid of distractions along Port-Harcourt Road Owerri in the small community of Umuijem in Avu town in Owerri West Local Government Area. 
                             It sits on a level plain that stretches out with the rest of Owerri-west’s savannah vegetation.</p>
                             <p style = "text-align:justify;">
                             The cool breeze that accompanies its unique vegetation moderates the scorching heat of the sun in the afternoons. 
                             This makes the environment serene and very conducive to academic work. The entire environment is stimulating and is known for its natural beauty, 
-                            splendour, tranquility, and exquisiteness.</p>
+                            splendour, tranquillity, and exquisiteness.</p>
                                  </div>
                             </div>
                         </div>
@@ -42,10 +42,9 @@
                             <h6>Address:</h6>
                                 </div>
                                 <div class="col-9">
-                            <h6 style = "text-align:justify;">Sankt George</h6>
-                            <p style = "text-align:justify;">Umuijem-Avu Avu, Owerri-West LGA
-                                Imo State,
-                                Nigeria
+                            <h6 style = "text-align:justify;">Sankt Georg International School</h6>
+                            <p style = "text-align:justify;">Umuijem-Avu, Owerri-West Local Government Area</br>
+                                Imo State, Nigeria
                                 </p>
                                 </div>
                             </div>
@@ -82,7 +81,7 @@
                             <h6>Website:</h6>
                         </div>
                         <div class="col-9">
-                            <h6 style = "text-align:justify;"> www.sanktgeorge.com</h6>
+                            <h6 style = "text-align:justify;"> www.sanktgeorg.com</h6>
                             <p>&nbsp;</p>
                         </div>
                     </div>

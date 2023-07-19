@@ -131,25 +131,24 @@ Bootstrap 4 breakpoints
   <div class="modal-dialog modal-dialog-centered modal-lg modal-landscape">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel" style = "font-weight:bold;">WELCOME</h5>
+        <h5 class="modal-title" id="exampleModalLabel" style = "font-weight:bold;">SGIS Welcomes you to her Page</h5>
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body">
         <p style="text-align:justify; font-family: 'Quicksand', sans-serif;">
-        Dear Visitor<br /> <br />
-        On behalf of Sankt Georg International School, I am thrilled to welcome you to our website. Whether you are a prospective student, a parent, a community member, or simply someone interested in learning more about us, we are delighted you have taken the time to explore our site.
+        Dear Visitors<br /> <br />
+        Sankt Georg International School (SGIS), Avu Imo State welcomes you to her website. Whether you are a prospective student, a parent, a community member, or simply someone interested in learning more about us, we are delighted you have taken the time to explore our site. 
         <br /> <br />
-At Sankt Georg International School, we believe in providing an exceptional education that not only prepares our students for the future but also enriches their lives in the present. Our dedicated faculty and staff work tirelessly to create a learning environment that is engaging, challenging, and supportive, one that inspires our students to achieve their full potential.
+        At SGIS, we believe in providing an exceptional education that not only prepares our students for the future but also enriches their lives in the present. Our dedicated faculty and staff work tirelessly to create a learning environment that is engaging, challenging, and supportive. Our mission is to provide an environment that inspires our students to achieve their full potential. 
 <br /> <br />
-We are committed to ensuring that every student who enters our doors feels valued, supported, and empowered to succeed. To us, education is not only about acquiring knowledge but also about developing the skills and character traits necessary to become responsible and contributing members of society.
+We are committed to ensuring that every student who enters our doors feels valued, supported, and empowered to succeed. To us, education is not only about acquiring knowledge but also about developing the skills and character traits necessary to become responsible and contributing members of society. 
 <br /> <br />
-As you navigate our website, I hope that you will gain a sense of the unique culture and community that we have built at Sankt Georg Int. School. From our academic programs to our extracurricular activities, we strive to provide our students with a well-rounded and enriching experience that prepares them for success in whatever path they choose.
+As you navigate our website, SGIS hopes that you will gain a sense of the unique culture and community that we have made possible. From our academic programs to our extracurricular activities, we strive to provide our students with a well-rounded and enriching experience that prepares them for success in whatever path they choose. 
 <br /> <br />
-Thank you for taking the time to visit our website. If you have any questions or would like to learn more about Sankt Georg International School, please do not hesitate to contact us. We would be honored to have the opportunity to share our story with you.
+Thank you for taking the time to visit our website. If you have any questions or would like to learn more about Sankt Georg Int. School, please do not hesitate to contact us. We would be honoured to have the opportunity to share our story with you. 
 </p>
 </br>
-<h5 style = "font-weight:bold; text-align:left;">Signed by </br>
-Management </h5>
+<h5 style = "font-weight:bold; text-align:left;">SGIS Management </h5>
  
       </div>
       <div class="modal-footer">
@@ -367,10 +366,10 @@ Management </h5>
                 <div class="col-sm-12 col-md-6" style="margin-top: 100px;border-left: 5px solid; border-left-color:#FFE5B4;">
                     <div style="padding-left: 40px; padding-right: 20px;">
                         <h2 style="color:#4A0404; font-family: 'Quicksand', sans-serif; text-align:center;">Sankt Georg International School </h2> 
-                        <h2 style="color:#4A0404; font-family: 'Quicksand', sans-serif; text-align:center;">(Primary Section)</h2>
+                        <h2 style="color:#4A0404; font-family: 'Quicksand', sans-serif; text-align:center;">(Nursery and Primary Section)</h2>
                         
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
-                        At Sankt Georg International School (Primary Section), every child is valued and encouraged to reach their full potential. 
+                        At Sankt Georg International School (Nursery/Primary Section), every child is valued and encouraged to reach their full potential. 
                         The school has a strong focus on personalized learning, with teachers working closely with students to identify their strengths and weaknesses and develop individualized learning plans. 
                         Students are also provided with a range of extracurricular activities, 
                         including sports, music, drama, and art, to explore their interests and talents.
@@ -378,7 +377,7 @@ Management </h5>
                         The school's campus is an inviting and welcoming space that encourages students to learn, play, and explore. The classrooms are spacious and equipped with modern technology, 
                         providing an ideal learning environment for students. The school also has a well-stocked library, science labs, and computer rooms, allowing students to develop a well-rounded education.                  
                         <br><br />
-                        The Primary Section has a strong commitment to its community, with regular events and programs designed to foster a sense of belonging and collaboration among students, parents, and staff. 
+                        The Nursery/Primary Section has a strong commitment to its community, with regular events and programs designed to foster a sense of belonging and collaboration among students, parents, and staff. 
                         The school's friendly and supportive atmosphere is reflected in its dedicated and passionate teachers, who go above and beyond to ensure that every child is supported and challenged to achieve their goals.
                         </p>
                         <button  class="btn btn-warning rounded-pill d-none d-md-block"><a href="/primary">Read more</a></button>
@@ -519,7 +518,7 @@ Management </h5>
 <div class="row" style=" margin-top: 100px;">
     <div class="container-fluid  ">
         <div class="col-12 text-center text-danger" >
-            <h1>Meet our Staff Members</h1>
+            <h1>Meet our Staff</h1>
         </div>
     </div>
 </div>
@@ -548,26 +547,21 @@ Management </h5>
                         
                         <h6 style = "font-weight: Bold;">Our Staff</h6>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
-                        There is no doubt that the successes recorded by any organization are eloquent testimonies of the high degree of commitment and 
-                        tenacity of the purpose of its staff and evidence of the administrative know-how of its managers in actualizing the goals and aspirations of 
-                        the organization.
-                        Likewise, when the organizational climate is warm, cordial, and motivating, when the spirit of the employees is vibrant, 
-                        peaceful, and inspiring there is no limit to the stretch of the potential and expertise of the employees in actualizing the visions of the founders of the establishment. 
-                        Hence, the glittering academic, spiritual, and social transformation parents witness in their children since the inception of the school. 
+                        In the bid to actualize and realize our mission and vision, SGIS set out in search of quality in terms of Staff. 
+                        It is evident, that the successes recorded by any organization eloquently testify to the high degree of commitment and tenacity of purpose of its staff and evidence of the administrative know-how of its managers 
+                        in actualizing the goals and aspirations of the organization. SGIS prioritized a warm, cordial, and motivating organizational climate, thereby ensuring that the spirit of the employees is vibrant, peaceful, and inspiring. 
          
                         </p>
 
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
-                        Since the school commenced intake of pupils and students in the academic arena of Imo State in August 2022, she has continued to march forwards with vigour, courage, 
-                        and exemplary performances. The school engaged the services of great teachers who inspire their pupils to greater heights of intellectual inquiry, creativity, and productivity. These teachers are well-qualified, exposed, and experienced. 
-                        With a Bachelor’s degree and Nigerian Certificate of Education (NCE) as benchmarks for secondary and primary school teachers respectively.
+                        SGIS engaged the services of great teachers who inspire their pupils to greater heights of intellectual inquiry, creativity, and productivity. Our teachers are well-qualified, exposed, and experienced. 
+                        This is not surprising, given our benchmarks of a minimum of a Bachelor’s degree and Nigerian Certificate of Education (NCE) for secondary and primary school teachers respectively. 
         
                         </p>
 
                         <!-- <h6>About the Staff</h6> -->
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
-                        Sankt Georg International School has purpose-built blocks used as dormitories, classrooms, libraries, and laboratory. 
-                        The architecture and interior designs are set up to inspire the students while making them feel at home.               
+                        The quality of our staff is clearly evident in the glittering academic, spiritual, and social transformation parents are witnessing in their children since the inception of the school.                
                         </p>
                         <button  class="btn btn-warning rounded-pill d-none d-md-block"><a href="/staff">Read more</a></button>
                     </div>

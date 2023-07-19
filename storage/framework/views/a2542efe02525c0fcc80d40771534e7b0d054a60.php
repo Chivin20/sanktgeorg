@@ -122,7 +122,7 @@ Bootstrap 4 breakpoints
     <div class="container">
         <div class="col-12" style="margin-top: 50px; margin-bottom: 20px;" >
             <div class="row">
-                <div class="col-sm-12 col-md-5"  >
+                <div class="col-sm-12 col-md-6"  >
                     <div class="container card">
                         <img class="rounded img-fluid mx-auto image" src="../assets/img/facility7.png"  style="width:900px; height:400px;" />
                         <div class="middle">
@@ -135,52 +135,43 @@ Bootstrap 4 breakpoints
                     </div>
                 </div>
 
-                <div class="col-sm-12 col-md-7">
-                    <div style="padding-left: 40px; padding-right: 20px; font-size: 16px;">
+                <div class="col-sm-12 col-md-5">
+                    <div style="padding-left: 40px; padding-right: 20px; font-size: 16px; text-align: justify;">
                         
                         <h4 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:30px;">School Anthem</h4>
-                        <h6 style="text-align: justify; font-family: 'Quicksand', sans-serif; color:#4A0404; font-size: 17px">
+                        <h6 style="font-family: 'Quicksand', sans-serif; color:#4A0404; font-size: 17px">
                         Stanza 1
                         </h6>
                         <p>
-                        Sankt Georg International School
-                        We create opportunities for excellence
-                        We have balanced, professional teachers
-                        We are pupils and students
-                        On a mission to impact our world positively <br /><br />
+                        Sankt Georg International School</br>
+                        We create opportunities for excellence</br>
+                        We have balanced, professional teachers</br>
+                        We are pupils and students.</br>
+                        On a mission to impact our world positively </p>
 
+                        <h6 style="font-family: 'Quicksand', sans-serif; color:#4A0404; font-size: 17px">
                         Refrain
-                        Looking for morality and integrity
-                        Searching for resilience and honour
-                        Scouting for discipline and self-control
-                        Expecting determination and creativity
-                        Then come to Sankt Georg
-                        </p>
+                        </h6>
+                        <p>
+                        Looking for morality and integrity</br>
+                        Searching for resilience and honour</br>
+                        Scouting for discipline and self-control</br>
+                        Expecting determination and creativity</br>
+                        Then come to Sankt Georg </p>
 
-                        <p style="text-align: justify; font-family: 'Quicksand', sans-serif; color:#4A0404;">
-                        Stanza 2 <br />
-                        We are world's best pupils and students
-                        We are special speeches
-                        With God on our side
-                        We are able
-                        We shall succeed in all we do
+                        <h6 style="font-family: 'Quicksand', sans-serif; color:#4A0404; font-size: 17px">
+                        Stanza 2
+                        </h6>
+                        <p>
+                        We are world's best Pupils and Students</br>
+                        We are special speeches</br>
+                        With God on our side we are able</br>
+                        We shall succeed in all we do </p>
 
-                        </p>
-
-                        <h4 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:30px;">Boarding Life</h4>
-
-                        <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
-                        In our boarding houses, we create a special atmosphere for our pupils. 
-                        Boarding at Sankt Georg International School offers the experience of being part of a friendly, 
-                        close-knit school community. We encourage our pupils to be independent and self-reliant. 
-                        House parents provide individual attention and encourage participation and collaboration.
-                        Our rooms are spacious and we'll ventilated with adequate restrooms and sanitary facilities. 
-                        Each pupil is allocated his/her locker to organize their uniform and clothes. <br />
-                        
-                        </p>
-
-                        
-                        
+                        </div>
+                                         
+                        <button class="btn btn-primary rounded-pill" style = "margin-left:20px;"> <a href = "<?php echo e(route('download.pdf')); ?>"> Download </a> </button>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -198,26 +189,44 @@ Bootstrap 4 breakpoints
                
                 <div class="col-sm-12 col-md-12">
                     <div style="padding-left: 40px; padding-right: 20px; font-size: 16px;">
-                        
-                        <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
-                        The common rooms are open and equipped with satellite television and many indoor games for students during their free time. 
+                    <h4 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:30px;">Boarding Life</h4>
+
+                  <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
+                  In our boarding houses (Halls of Residence), we created a special and welcoming atmosphere for our students, 
+                  so that they can feel at home. Boarding at Sankt Georg International School offers the experience of being part of a friendly, 
+                  close-knit school community. We encourage our pupils to be independent and self-reliant. We have two Rev. Sisters, a young and vibrant mother, 
+                  and a responsible young man who are serving as Matrons in our Halls of Residence. These provide individual attention and encourage participation and collaboration among the students. 
+                  Our rooms are spacious and well-ventilated with adequate restrooms and sanitary facilities. Each student is allocated their wardrobe to organize their uniform and clothes.  <br />
+                  </br>
+                        Our well-furnished common rooms are open and equipped with satellite television and many indoor games for students during their free time. 
                         While weekend activities are designed to be fun, they are also educative and sometimes challenging. We place a high premium on hygiene. 
-                        That is why we maintain a quality laundry service where uniforms for students are washed and ironed, 
-                        while also encouraging them to wash their underwear and nightwear themselves.
+                        That is why we maintain a quality laundry service program where students are taught how to wash their uniforms and take care of their underwear and nightwear themselves.
+                        </br> </br>
+                        Our Refectory is well-furnished, neat and homely. We have professional cooks who are passionate about cooking the best foods for our students. 
+                        SGIS has come up with a well-balanced menu that ensures our students eat well and healthy. All these measures are geared towards fulfilling our vision of providing all-round development for the students of SGIS.
+                        </p>
+
+                        <h4 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:30px;">Fees</h4>
+                        <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
+                        Please, contact the School Bursar or any member of the School Management Team for further inquiries on this. </p>
+                        <h5 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:18px;"> Sibling Discount</h5>
+                        <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
+                        Where three or more siblings are pupils at the same time, a discount is offered by SGIS. 
+                        Please contact the Bursar or the School Management for more inquiries. 
+                        It is worth it to have all your children with us. 
                         </p>
 
                         <h4 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:30px;">Extra-Curricular</h4>
                         <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:18px;"> Religious Life</h6>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
-                        The school works in collaboration with the religious congregation of the frasiscan Missionary 
-                        Desciples of Christ who take care of the spiritual life of the students.
+                        The school works in collaboration with the religious congregation of the Franciscan Missionary Disciples of Christ (FMDC) who take care of the spiritual life of the students in the Halls of Residence. 
+                        A catholic priest serves as the School Administrator and another catholic priest gives Moral and Religious Instructions to the students three times in a week.  
                         </p>
 
                         <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:18px;">Retreats</h6>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
-                        The school organizes retreats once a year to strengthen the spiritual life of the students. 
-                        The two-day retreat precedes the summer camping trip. During retreats, 
-                        there are no interactions with those outside the group. 
+                        The school organizes retreats once a year to strengthen the spiritual life of the students. The two-day retreat precedes the summer camping trip. During retreats, there are no interactions with those outside the group. 
+                        This lack of interaction with the outside world creates room for concentration and reflection. This time is purposefully thought out to give the students the opportunity to reflect on their life and future.  
                         </p>
 
                         <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:18px;">Carols</h6>
@@ -233,14 +242,13 @@ Bootstrap 4 breakpoints
                         </p>
                         <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:18px;">Socials</h6>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
-                        Social events are organized for the students once a month. Events include independence day, children's day, and birthday parties, in which students born in a particular month hold their party. 
-                        Students are allowed to bring only two sets of mufti clothes, which may be worn during the socials. 
+                        Social events are organized for the students once a month. Events include Independence Day, children's day, Arts and Cultural festivities. Students are allowed to bring only two sets of mufti clothes, which may be worn during the socials. 
                         </p>
                         <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:18px;">Clubs</h6>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                         In every session, students are assigned to different clubs. 
                         Clubs are created with teachers supervising them, such as Drama, Music, JETS, 
-                        Young Farmers, Skill Acquisition, Literary and Debating, Arts, and more. Club meetings are held weekly.
+                        Young Farmers, Skill Acquisition, Literary and Debating, French, Arts, and more. Club meetings are held bi-weekly.
                         </p>
 
                         <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:18px;">Project Exhibitions</h6>
@@ -249,7 +257,7 @@ Bootstrap 4 breakpoints
                         parents are invited to the school to see projects done by their wards. 
                         The students present their projects and prizes are awarded for the best projects. 
                         Parents are made to do the judgment themselves. Also, clubs such as the Music club, 
-                        Literary Society, and the popular Computer club, make presentations as well.
+                        French Club, Literary Society, and the popular Computer club, make presentations as well.
                         </p>
 
                         

@@ -121,6 +121,26 @@ Bootstrap 4 breakpoints
     <div class="container-fluid">
         <div class="col-12" style="margin-top: 50px; margin-bottom: 20px;" >
             <div class="row">
+
+            <div class="col-sm-12 col-md-6"  >
+
+<div class="card">
+    
+        <img class="rounded img-fluid mx-auto image" src="../assets/img/cover.png" style="height:450px; weight:500px; margin-bottom:30px;" />
+        <div class="middle">
+            <div class="text rounded">
+                School Building
+
+                <p>Front View</p>
+            </div>
+            
+        </div>
+
+    
+</div>
+</div>
+
+
                 <div class="col-sm-12 col-md-6"  >
 
                     <div class="card">
@@ -204,7 +224,7 @@ Bootstrap 4 breakpoints
                     </div>
                 </div>
 
-                <div class="col-sm-12 col-md-6"  >
+                <div class="col-sm-12 col-md-6" style="margin-bottom: 20px;" >
 
             <div class="card">
     
@@ -212,6 +232,142 @@ Bootstrap 4 breakpoints
         <div class="middle">
             <div class="text rounded">
             Security Post
+            </div>
+            
+        </div>
+
+</div>
+</div>
+
+<div class="col-sm-12 col-md-6"  >
+
+            <div class="card">
+    
+        <img class="rounded img-fluid mx-auto image" src="../assets/img/library.jpg"  style="height:450px; weight:500px;"/>
+        <div class="middle">
+            <div class="text rounded">
+            Library
+            </div>
+            
+        </div>
+
+</div>
+</div>
+         
+
+         <div class="col-sm-12 col-md-6" style="margin-bottom: 20px;" >
+
+            <div class="card">
+    
+        <img class="rounded img-fluid mx-auto image" src="../assets/img/Dorm.jpg"  style="height:600px; weight:500px;"/>
+        <div class="middle">
+            <div class="text rounded">
+            Dormitory
+            </div>
+            
+        </div>
+
+</div>
+</div>
+         
+<div class="col-sm-12 col-md-6"  >
+
+<div class="card">
+
+<img class="rounded img-fluid mx-auto image" src="../assets/img/lab.jpg"  style="height:600px; weight:500px;"/>
+<div class="middle">
+<div class="text rounded">
+Physics Laboratory
+</div>
+
+</div>
+
+</div>
+</div>
+
+<div class="col-sm-12 col-md-6" style="margin-bottom: 20px;" >
+
+            <div class="card">
+    
+        <img class="rounded img-fluid mx-auto image" src="../assets/img/chem.jpg"  style="height:600px; weight:500px;"/>
+        <div class="middle">
+            <div class="text rounded">
+            Chemistry Laboratory
+            </div>
+            
+        </div>
+
+</div>
+</div>
+         
+<div class="col-sm-12 col-md-6"  >
+
+<div class="card">
+
+<img class="rounded img-fluid mx-auto image" src="../assets/img/fineart.jpg"  style="height:600px; weight:500px;"/>
+<div class="middle">
+<div class="text rounded">
+Fine Art Laboratory
+</div>
+
+</div>
+
+</div>
+</div>
+
+<div class="col-sm-12 col-md-6" style="margin-bottom: 20px;" >
+
+            <div class="card">
+    
+        <img class="rounded img-fluid mx-auto image" src="../assets/img/nur.jpg"  style="height:450px; weight:500px;"/>
+        <div class="middle">
+            <div class="text rounded">
+            Nursery Section
+            </div>
+            
+        </div>
+
+</div>
+</div>
+
+<div class="col-sm-12 col-md-6"  >
+
+            <div class="card">
+    
+        <img class="rounded img-fluid mx-auto image" src="../assets/img/pri.jpg"  style="height:450px; weight:500px;"/>
+        <div class="middle">
+            <div class="text rounded">
+            Primary Section
+            </div>
+            
+        </div>
+
+</div>
+</div>
+
+<div class="col-sm-12 col-md-6"  >
+
+            <div class="card">
+    
+        <img class="rounded img-fluid mx-auto image" src="../assets/img/p2.jpg"  style="height:450px; weight:500px;"/>
+        <div class="middle">
+            <div class="text rounded">
+            Secondary Section
+            </div>
+            
+        </div>
+
+</div>
+</div>
+
+<div class="col-sm-12 col-md-6"  >
+
+            <div class="card">
+    
+        <img class="rounded img-fluid mx-auto image" src="../assets/img/hostel.jpg"  style="height:450px; weight:500px;"/>
+        <div class="middle">
+            <div class="text rounded">
+            Hostel
             </div>
             
         </div>

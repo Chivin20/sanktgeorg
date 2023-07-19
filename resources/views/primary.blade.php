@@ -140,7 +140,7 @@ Bootstrap 4 breakpoints
                         
                         <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:30px;">Primary Section</h6>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
-                        At Sankt Georg Primary School, every child is valued and encouraged to reach their full potential. 
+                        At Sankt Georg International School (Primary Section), every child is valued and encouraged to reach their full potential. 
                         The school has a strong focus on personalized learning, with teachers working closely with students to identify their strengths and weaknesses and develop individualized learning plans. 
                         Students are also provided with a range of extracurricular activities,
                          including sports, music, drama, and art, to explore their interests and talents.<br /> <br />
@@ -149,12 +149,12 @@ Bootstrap 4 breakpoints
                         The classrooms are spacious and equipped with modern technology, providing an ideal learning environment for students. 
                         The school also has a well-stocked library, science labs, and computer rooms, allowing students to develop a well-rounded education.<br /> <br />
 
-                        Sankt Georg Primary School has a strong commitment to its community, 
+                        The Primary Section has a strong commitment to its community, 
                         with regular events and programs designed to foster a sense of belonging and collaboration among students, parents, and staff. 
                         The school's friendly and supportive atmosphere is reflected in its dedicated and passionate teachers, 
                         who go above and beyond to ensure that every child is supported and challenged to achieve their goals.<br /> <br />
 
-                        Overall, Sankt Georg Primary School is an exceptional institution that provides its students with a high-quality education, a stimulating learning environment, and a strong sense of community. 
+                        Overall, Sankt Georg International School (Primary Section) is an exceptional institution that provides its students with a high-quality education, a stimulating learning environment, and a strong sense of community. 
                         It is a place 
 
                         </p>

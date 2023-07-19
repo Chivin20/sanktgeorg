@@ -54,13 +54,13 @@
             <div class="row">
                 <div class="col-sm-12 col-md-6"  style=" margin-top: 50px;">
                    
-                   <img class="rounded img-fluid float-end" src="{{url('/assets/img/about.png')}}" style =" width:600px; margin-bottom:20px;" />
+                   <img class="rounded img-fluid float-end" src="{{url('/assets/img/cover.png')}}" style =" width:600px; margin-bottom:20px;" />
                 </div>
 
                 <div class="col-sm-12 col-md-6" style="margin-top: 50px;border-left: 5px solid; border-left-color:#FFE5B4;">
                     <div style="padding-left: 40px; padding-right: 20px;">
                       
-                        <h3 style="color:#4A0404;">Sankt Georg School</h3>
+                        <h3 style="color:#4A0404;">Sankt Georg International School</h3>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                         Sankt Georg International School (SGIS) Avu, Owerri West Local Government Area, Imo State, Nigeria, 
                         is a co-educational School owned by Echidime Hope For Future Foundation Nigeria, 
@@ -105,7 +105,7 @@
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-6"  style=" margin-top: 50px;">
-                   <img class="rounded img-fluid float-start" src="../assets/img/comupter_lab.png" style =" width:600px; margin-bottom:20px;" />
+                   <img class="rounded img-fluid float-start" src="../assets/img/facility1.png" style =" width:600px; margin-bottom:20px;" />
                 </div>
 
                 

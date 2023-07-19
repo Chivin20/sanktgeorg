@@ -50,8 +50,8 @@
             </a>
             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
               <li><a class="dropdown-item" href="{{route('calendar')}}" routerLink="/calendar" routerLinkActive="active" >Calendar</a></li>
-              <li><a class="dropdown-item" href="{{route('fees')}}" routerLink="/Fees" routerLinkActive="active">Fees</a></li>
-            </ul>
+              <!--<li><a class="dropdown-item" href="{{route('fees')}}" routerLink="/Fees" routerLinkActive="active">Fees</a></li>
+            --></ul>
           </li>
 
           <li class="nav-item">
@@ -135,9 +135,10 @@
             <li>
               <a href="/">Academic Department</a>
             </li>
+            <!--
             <li>
               <a href="/fees">Fees</a>
-            </li>
+            </li> -->
             <li>
               <a href="/contact-us">Contact Us</a>
             </li>

@@ -52,7 +52,7 @@
             <div class="row">
                 <div class="col-sm-12 col-md-5">
                     <div class="container card">
-                        <img class="rounded img-fluid mx-auto image" src="../assets/img/schoolproprietor.jpg" style = "width:400px; height:500px;" />
+                        <img class="rounded img-fluid mx-auto image" src="../assets/img/schoolproprietor.jpg" style = "width:700px; height:900px;" />
                         <div class="middle">
                             <div class="text rounded">
                             Rev Fr. Victor Anoka
@@ -64,32 +64,107 @@
                 </div>
 
                 <div class="col-sm-12 col-md-7">
-                    <div style="padding-left: 40px; padding-right: 20px; font-size: 18px;">
+                    <div style="padding-left: 40px; padding-right: 20px; font-size: 16px;">
                         
-                        <h3><b>University</b></h3>
+                        <h4 style = "color:#4A0404;"><b>SCHOOL ADMINISTRATION</b></h4>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. <br>
-                            Lacus elementum duis ut amet, ac eget metus quis nulla. Est tempus          
+                        Sankt Georg International School has a well-structured administration that ensures effective management 
+                        and smooth operation of the institution. The administration of Sankt Georg International School 
+                        aims to create a functional family-like atmosphere where every member has a designated role. 
+                        This structure enables effective representation, seamless service delivery, prompt responses to issues, 
+                        and efficient implementation of resolutions. The administration's collaborative approach ensures that 
+                        the diverse needs of students, parents, and staff are met while maintaining a high standard of education 
+                        and a supportive school environment.
+                        The administration can be divided into two main categories: 
+                        The Management Board and The Staff Members.         
+                        </p>
+                        <h4 style = "color:#4A0404;"><b>Management Board</b></h4>
+
+                        <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:18px;">Head Teachers: </h6>  
+                        <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
+                        The management board includes the head teachers of the primary and 
+                        secondary sections. They are responsible for overseeing the academic programs, 
+                        curriculum development, and overall educational standards of their respective sections.          
                         </p>
 
+                        <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:18px;">School Administrator: </h6>  
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. <br>
-                            Lacus elementum duis ut amet, ac eget metus quis nulla. Est tempus          
+                        The school administrator plays a crucial role in coordinating various 
+                        administrative tasks. They manage day-to-day operations, handle logistics, ensure compliance 
+                        with regulations, and provide support to both staff and students.         
                         </p>
 
-                        <h3><b>About the Staff</b></h3>
+                        <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:18px;">School Manager:</h6>  
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-                            Lacus elementum duis ut amet, ac eget metus quis nulla. Est tempus 
-                            pellentesque diam eget duis mauris, integer. Et ut lacus, dignissim ullamcorper 
-                            ac eget metus quis nulla. Est tempus pellentesque diam eget duis mauris, integer.  
-                            pellentesque diam eget duis mauris, integer. Et ut lacus, dignissim ullamcorper 
-                            ac eget metus quis nulla. Est tempus pellentesque diam eget duis mauris, integer.                   
+                         The school manager oversees the overall administration of the school. 
+                        They are responsible for budget management, resource allocation, facility maintenance, 
+                        and strategic planning to enhance the school's performance.         
                         </p>
+
+                        <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:18px;">Hostel Administrators:</h6>  
+                        <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
+                         If Sankt Georg International School has boarding facilities, 
+                        the hostel administrators are in charge of managing the hostels. 
+                        They ensure the well-being and safety of the boarding students, handle dormitory operations, 
+                        and address any concerns related to boarding facilities.         
+                        </p>
+
+                        <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:18px;">Parent-Teacher Association (PTA) Representative: </h6>  
+                        <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
+                        The PTA representative acts as a liaison between 
+                        the school administration and the parents. They facilitate communication, organize events, and 
+                        address parental concerns or suggestions.        
+                        </p>
+
+                        <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:18px;">Head Boy/Girl: </h6>  
+                        <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
+                        The head boy or girl is a student representative who may be included in the management board. 
+                        They provide student perspectives, voice student concerns, and participate in decision-making processes.         
+                        </p>
+
+                        
+                        
                     </div>
                 </div>
             </div>
         </div>
+        <div class="col-12">
+                    <div style="padding-left: 40px; padding-right: 20px; font-size: 16px;">
+        <h4 style = "color:#4A0404;"><b>Staff Members</b></h4> </br>
+        <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:18px;">Teachers:</h6>         
+                        
+                        <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
+                        The teaching staff are responsible for delivering high-quality education to students. 
+                        They plan and conduct lessons, assess student progress, provide guidance and support, 
+                        and collaborate with colleagues and administrators to ensure effective teaching and learning.                   
+                        </p>
+
+                        <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:18px;">Support Teachers:</h6> 
+                        <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
+                        Support teachers work alongside regular teachers to provide additional assistance to students 
+                        with special educational needs or learning challenges. They offer personalized support, modify teaching methods, 
+                        and collaborate with teachers and parents to create an inclusive learning environment.                   
+                        </p>
+
+                        <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:18px;">Security Personnel: </h6>     
+                        <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
+                        The security team ensures the safety and security of students, staff, and the school premises. 
+                        They monitor access, implement safety protocols, respond to emergencies, and maintain a secure environment.                  
+                        </p>
+
+                        <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:18px;">Drivers: </h6>     
+                        <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
+                        School drivers are responsible for transporting students to and from school, ensuring their safety during the commute. 
+                        They follow designated routes, adhere to traffic regulations, and maintain a safe and comfortable transportation experience for students.                  
+                        </p>
+
+                        <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:18px;">Kitchen Staff: </h6>     
+                        <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
+                        The kitchen staff manage the school's cafeteria and food services. They plan and prepare nutritious meals, 
+                        maintain food hygiene standards, cater to dietary requirements, and ensure a healthy and pleasant dining experience for students and staff.                   
+                        </p>
+                        </div>
+                        </div>
     </div>
 </div>
 <!-- end of about Principal of School-->
@@ -164,6 +239,9 @@
                     
                         <div class="card-body text-center">
                         <h5 class="card-title"><b>Mrs. Angela Ezeuiro</b></h5>
+                        <h6> NCE, ISC/CHEM, Adeniran College of Education, Ijanikin, Lagos.
+                            B.Ed, Educational Management, University of Ado-Ekiti, Ekiti State. </h6>
+
                             
                           </div>
                     </div>
@@ -211,6 +289,25 @@
                 </div>
 
 
+                <div class="col-sm-12 col-md-3"  >
+
+<div class="card">
+    
+        <img class="rounded img-fluid mx-auto image" style="height:200px ; width:200px;" src="../assets/img/charity.jpg" />
+        <div class="middle">
+            <div class="text rounded">
+               
+                <p></p>
+            </div>
+            
+        </div>
+
+    <div class="card-body text-center">
+        <h5 class="card-title"><b>Ofurum Charity Nkechi</b></h5>
+        <h6> BSC Urban and Regional Planning </h6>
+      </div>
+</div>
+</div>
                 
 
             </div>

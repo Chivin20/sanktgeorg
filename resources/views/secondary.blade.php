@@ -140,7 +140,7 @@ Bootstrap 4 breakpoints
                         
                         <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:30px;">Secondary Section</h6>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
-                        At Sankt Georg Secondary School, academic excellence is the top priority. The school offers a rigorous and comprehensive curriculum that challenges students to reach their full potential. The teachers are highly qualified and experienced, 
+                        At Sankt Georg International School (Secondary Section), academic excellence is the top priority. The school offers a rigorous and comprehensive curriculum that challenges students to reach their full potential. The teachers are highly qualified and experienced, 
                         providing students with individualized attention and guidance that helps them to achieve their academic goals.<br /> <br />
 
                         The school also offers various extracurricular activities, from sports to clubs and community service programs. These activities provide students with opportunities to develop their leadership skills, build friendships, and explore new interests. 

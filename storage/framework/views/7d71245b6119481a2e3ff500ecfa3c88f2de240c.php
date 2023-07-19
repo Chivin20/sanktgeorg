@@ -125,11 +125,11 @@ Bootstrap 4 breakpoints
             <div class="row">
                 <div class="col-sm-12 col-md-5"  >
                     <div class="container card">
-                        <img class="rounded img-fluid mx-auto image" src="../assets/img/facility5.png" width="300px"  />
+                        <img class="rounded img-fluid mx-auto image" src="../assets/img/lab.jpg" width="300px"  />
                         <div class="middle">
                             <div class="text rounded">
-                                School Computer
-                                <p>laboratory</p>
+                                Laboratory
+                                
                             </div>
                             
                           </div>

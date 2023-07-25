@@ -57,8 +57,8 @@
         <div class="col-12" style="margin-top: 50px; margin-bottom: 20px;" >
             <div class="row">
                 <div class="col-sm-12 col-md-5">
-                    <div class="container card">
-                        <img class="rounded img-fluid mx-auto image" src="../assets/img/schoolproprietor.jpg" style = "width500px; height:700px;" />
+                    <div class="container card" style = "width:500px; height:600px;">
+                        <img class="rounded img-fluid mx-auto image" src="../assets/img/schoolproprietor.jpg" style = "width:500px; height:600px;" />
                         <div class="middle">
                             <div class="text rounded">
                             Rev Fr. Collins Anoka
@@ -72,7 +72,7 @@
                 <div class="col-sm-12 col-md-7">
                     <div style="padding-left: 40px; padding-right: 20px; font-size: 16px;">
                         
-                        <h3 style = "color:#4A0404;"><b>SCHOOL ADMINISTRATION</b></h3>
+                        <h3 class="text-danger"><b>SCHOOL ADMINISTRATION</b></h3>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                         Sankt Georg International School has a well-structured administration that ensures effective management 
                         and smooth operation of the institution. The administration of Sankt Georg International School 
@@ -84,35 +84,38 @@
                         The administration can be divided into two main categories: 
                         The Management Board and The Staff Members.         
                         </p>
-                        <h3 style = "color:#4A0404;"><b>Management Board</b></h3>
-
-                        <h5 style="color:#4A0404; font-family: 'Quicksand', sans-serif;"><b>Head Teachers: </b></h5>  
+                        <h3 class="text-danger"><b>Management Board</b></h3>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
-                        The management board includes the head teachers of the primary and 
-                        secondary sections. They are responsible for overseeing the academic programs, 
-                        curriculum development, and overall educational standards of their respective sections.          
+                        The School Management Board comprises of the Director, Administrator, Principal, Head Teacher, Bursar, 
+                        School Secretary, Dean of Students’ Affairs, Admissions officer, Hostel Administrators, Head of Security, 
+                        and a representative from the State Ministry of Education. </p>
+
+                        <h5 style="color:#4A0404; font-family: 'Quicksand', sans-serif;"><b>Section Heads: </b></h5>  
+                        <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
+                        The Section Heads of the primary and secondary sections in the persons of the Head Teacher and the Principal are 
+                        responsible for overseeing the academic programs, curriculum development, and overall educational standards of 
+                        their respective sections. The section heads work in collaboration with the School Management Board.           
                         </p>
 
                         <h5 style="color:#4A0404; font-family: 'Quicksand', sans-serif;"><b>School Administrator: </b></h5>  
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
-                        The school administrator plays a crucial role in coordinating various 
-                        administrative tasks. They manage day-to-day operations, handle logistics, ensure compliance 
-                        with regulations, and provide support to both staff and students.         
+                        The office of the school administrator plays a crucial role in coordinating various 
+                        administrative tasks. It oversees and manages day-to-day operations, handles logistics, ensures compliance 
+                        with regulations, and provide support to both staff, pupils and students.         
                         </p>
 
-                        <h5 style="color:#4A0404; font-family: 'Quicksand', sans-serif;"><b>School Manager:</b></h5>  
+                        <h5 style="color:#4A0404; font-family: 'Quicksand', sans-serif;"><b>School Bursar:</b></h5>  
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
-                         The school manager oversees the overall administration of the school. 
-                        They are responsible for budget management, resource allocation, facility maintenance, 
-                        and strategic planning to enhance the school's performance.         
+                        The office of the school Bursar oversees the overall financial administration of the school. 
+                        She is responsible for budget management, resource allocation, facility maintenance, and strategic 
+                        planning to enhance the school's performance. If functions in collaboration with the school management board.          
                         </p>
 
                         <h5 style="color:#4A0404; font-family: 'Quicksand', sans-serif;"><b>Hostel Administrators:</b></h5>  
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
-                         If Sankt Georg International School has boarding facilities, 
-                        the hostel administrators are in charge of managing the hostels. 
-                        They ensure the well-being and safety of the boarding students, handle dormitory operations, 
-                        and address any concerns related to boarding facilities.         
+                        The Halls of Residence and all boarding facilities are supervised by the hostel administrators. 
+                        They ensure the well-being and safety of the boarders, handle dormitory operations, and address 
+                        any concerns related to boarding facilities and to the life of the students in the halls of residence.         
                         </p>
 
                         <h5 style="color:#4A0404; font-family: 'Quicksand', sans-serif;"><b>Parent-Teacher Association (PTA) Representative: </b></h5>  
@@ -136,7 +139,7 @@
         </div>
         <div class="col-12">
                     <div style="padding-left: 40px; padding-right: 20px; font-size: 16px;">
-        <h3 style = "color:#4A0404;"><b>Staff Members</b></h3> </br>
+        <h3 class="text-danger"><b>Staff Members</b></h3>
         <h5 style="color:#4A0404; font-family: 'Quicksand', sans-serif;"><b>Teachers:</b></h5>         
                         
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
@@ -160,8 +163,9 @@
 
                         <h5 style="color:#4A0404; font-family: 'Quicksand', sans-serif;"><b>Drivers: </b></h5>     
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
-                        School drivers are responsible for transporting students to and from school, ensuring their safety during the commute. 
-                        They follow designated routes, adhere to traffic regulations, and maintain a safe and comfortable transportation experience for students.                  
+                        School drivers are responsible for transporting students to and from school, and ensuring their safety during the commute. 
+                        They follow designated routes, adhere to traffic regulations, and maintain a safe and comfortable transportation experience for students.
+                        They are responsible for the maintenance of the School Buses.                  
                         </p>
 
                         <h5 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:18px;"><b>Kitchen Staff: </b></h5>     
@@ -265,8 +269,8 @@
                     
                         <div class="card-body text-center">
                         <h5 class="card-title"><b>Mrs. Angela Ezeuiro</b></h5>
-                        <h6> NCE, ISC/CHEM, Adeniran College of Education, Ijanikin, Lagos.
-                            B.Ed, Educational Management, University of Ado-Ekiti, Ekiti State. </h6>
+                        <h6> NCE, ISC/CHEM.
+                            B.Ed in Educational Management </h6>
 
                             
                           </div>
@@ -315,7 +319,7 @@
                 </div>
 
 
-                <div class="col-sm-12 col-md-3"  >
+<div class="col-sm-12 col-md-3"  >
 
 <div class="card">
     
@@ -330,12 +334,29 @@
 
     <div class="card-body text-center">
         <h5 class="card-title"><b>Mrs. Chika Okorie </b></h5>
-        <h6> BSc. Accounting  </h6>
+        <h6> B.Sc in Accounting  </h6>
       </div>
 </div>
 </div>
 
+<div class="col-sm-12 col-md-3">
+<div class="card">
+    
+        <img class="rounded img-fluid mx-auto image" style="height:220px ; width:200px;" src="../assets/img/bursar.jpg" />
+        <div class="middle">
+            <div class="text rounded">
+               
+                <p>School Bursar</p>
+            </div>
+            
+        </div>
 
+    <div class="card-body text-center">
+        <h5 class="card-title"><b>Winifred Ojinere </b></h5>
+        <h6> B.Sc in Geography and Environmental Science </h6>
+      </div>
+</div>
+</div>
 
         
 
@@ -368,7 +389,7 @@
                     
                         <div class="card-body text-center">
                             <h5 class="card-title"><b>Nwachukwu Julia Soromtochim</b></h5>
-                            <p class="card-text">N.C.E Biology/Health Education, ED/Biology 
+                            <p class="card-text">N.C.E in Biology/Health Education, ED/Biology 
                             </p>
                           </div>
                     </div>
@@ -382,7 +403,7 @@
                            
                     <div class="card-body text-center">
                             <h5 class="card-title"><b>Anoka Doris Chinwe</b></h5>
-                            <p class="card-text">B.Ed french Education</p>
+                            <p class="card-text">B.Ed in french Education</p>
                           </div>
                     </div>
                 </div>
@@ -410,7 +431,7 @@
                     
                         <div class="card-body text-center">
                             <h5 class="card-title"><b>Odibo Chinedu Nene </b></h5>
-                            <p class="card-text">B.Sc., Education Physics</p>
+                            <p class="card-text">B.Sc. in Education Physics</p>
                           </div>
                     </div>
                 </div>
@@ -424,7 +445,7 @@
                     
                         <div class="card-body text-center">
                             <h5 class="card-title"><b>Ihuoma Vincentia Nzubechi</b></h5>
-                            <p class="card-text">B.Sc Business Education</p>
+                            <p class="card-text">B.Sc in Business Education</p>
                           </div>
                     </div>
                 </div>
@@ -437,7 +458,7 @@
                     
                         <div class="card-body text-center">
                             <h5 class="card-title"><b>Mrs Alaoma chioma</b></h5>
-                            <p class="card-text">BSC psychology, M SC, Clinical psychology </p>
+                            <p class="card-text">B.Sc in Psychology, M.Sc in Clinical psychology </p>
                           </div>
                     </div>
                 </div>
@@ -450,7 +471,7 @@
                     
                         <div class="card-body text-center">
                             <h5 class="card-title"><b>Alilonu Kelechi Pamela</b></h5>
-                            <p class="card-text">Bsc In Mass communication, PGDE Social Studies, Masters In Mass communication</p>
+                            <p class="card-text">B.Sc in Mass communication, PGDE in Social Studies, Masters in Mass communication</p>
                           </div>
                     </div>
                 </div>
@@ -463,7 +484,7 @@
                     
                         <div class="card-body text-center">
                             <h5 class="card-title"><b>Iheanacho Ngozika</b></h5>
-                            <p class="card-text">Fine and Applied Arts( B.A Hons)</p>
+                            <p class="card-text">Fine and Applied Arts (B.A Hons)</p>
                           </div>
                     </div>
                 </div>
@@ -476,7 +497,7 @@
                     
                         <div class="card-body text-center">
                             <h5 class="card-title"><b>Ifeanyi Diala</b></h5>
-                            <p class="card-text">HND Business Administration Bsc, Music, University of Nigeria Nsukka</p>
+                            <p class="card-text">HND in Business Administration B.Sc in Music</p>
                           </div>
                     </div>
                 </div>
@@ -488,7 +509,7 @@
 
     <div class="card-body text-center">
         <h5 class="card-title"><b>Festina Ibeawuchi</b></h5>
-        <p class="card-text">B.Sc Mass communication</p>
+        <p class="card-text">B.Sc in Mass communication</p>
       </div>
 </div>
 </div>
@@ -501,7 +522,46 @@
 
     <div class="card-body text-center">
         <h5 class="card-title"><b>Ofurum Charity Nkechi</b></h5>
-        <p class="card-text">BSC Urban and Regional Planning</p>
+        <p class="card-text">B.Sc in Urban and Regional Planning</p>
+      </div>
+</div>
+</div>
+
+<div class="col-sm-12 col-md-3"  >
+
+<div class="card">
+    
+<img class="rounded img-fluid mx-auto image" style="height:220px; width:200px;" src="../assets/img/glory.jpg" />
+
+    <div class="card-body text-center">
+        <h5 class="card-title"><b>Njoku Glory .C.</b></h5>
+        <p class="card-text">B.Ed in Business Education (Second Class Upper)</p>
+      </div>
+</div>
+</div>
+
+<div class="col-sm-12 col-md-3"  >
+
+<div class="card">
+    
+<img class="rounded img-fluid mx-auto image" style="height:220px; width:200px;" src="../assets/img/vivian.jpg" />
+
+    <div class="card-body text-center">
+        <h5 class="card-title"><b>Nwachukwu Vivian</b></h5>
+        <p class="card-text">PGDE, B.A in French (Second Class Upper)</p>
+      </div>
+</div>
+</div>
+
+<div class="col-sm-12 col-md-3"  >
+
+<div class="card">
+    
+<img class="rounded img-fluid mx-auto image" style="height:220px; width:200px;" src="../assets/img/anele.jpg" />
+
+    <div class="card-body text-center">
+        <h5 class="card-title"><b>Mr. Bethel Anele</b></h5>
+        <p class="card-text">B.ENG in Petroleum and B.Edu in Mathematics (Second Class Upper)</p>
       </div>
 </div>
 </div>

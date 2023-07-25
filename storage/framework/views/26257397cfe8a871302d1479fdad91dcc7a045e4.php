@@ -17,7 +17,7 @@ Bootstrap 4 breakpoints
 @media (min-width: 444px) {  
     #banner{
         width: 100%; 
-        height: 250px; 
+        height: 350px; 
         background-repeat: no-repeat; 
         background-size: 100%;
       }
@@ -50,7 +50,7 @@ Bootstrap 4 breakpoints
   @media (min-width: 1000px) { 
     #banner{
         width: 100%; 
-        height: 750px; 
+        height: 650px; 
         background-repeat: no-repeat; 
         background-size: 100%;
       }
@@ -120,8 +120,8 @@ Bootstrap 4 breakpoints
   }
 
   .card{
-      height:350px;
-      margin-bottom:30px;
+      height:300px;
+      margin-bottom:20px;
     }
      
   /*
@@ -140,7 +140,7 @@ Bootstrap 4 breakpoints
       </div>
       <div class="modal-body">
         <p style="text-align:justify; font-family: 'Quicksand', sans-serif;">
-        Dear Visitors<br /> <br />
+        <b>Dear Visitors</b><br /> <br />
         Sankt Georg International School (SGIS), Avu Imo State welcomes you to her website. Whether you are a prospective student, a parent, a community member, or simply someone interested in learning more about us, we are delighted you have taken the time to explore our site. 
         <br /> <br />
         At SGIS, we believe in providing an exceptional education that not only prepares our students for the future but also enriches their lives in the present. Our dedicated faculty and staff work tirelessly to create a learning environment that is engaging, challenging, and supportive. Our mission is to provide an environment that inspires our students to achieve their full potential. 
@@ -170,18 +170,21 @@ Thank you for taking the time to visit our website. If you have any questions or
                 <ol class="carousel-indicators">
                   <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
                   <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                  <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+                  <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+                  <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
                 </ol>
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <div class="col-sm-12 col-md-12" id="banner" style="background-image:linear-gradient(rgba(0, 0, 0, 0.20),rgba(0, 0, 0, 0.3)), url('../assets/img/about.png');">
+                        <div class="col-12" id="banner" style="background-image:linear-gradient(rgba(0, 0, 0, 0.20),rgba(0, 0, 0, 0.3)), url('../assets/img/about.png');">
                             <div class="row">
-                                 <div class="col-7">
+                                 <div class="col-sm-12 col-md-6">
                                      <div id="banner_left"> 
-                         <h1 class = "text-warning" style="color:red; font-family: monospace;  font-style:opaque; font-weight:Bold;">
+                         <h1 class = "text-warning" style="color:red; font-family: monospace;  font-style:opaque; font-weight:Bold; font-size:50px;">
                             WELCOME TO </h1>
                            <h1 style = "color:white; font-family: monospace;  font-style:opaque; font-weight:Bold;"> SANKT GEORG INTERNATIONAL SCHOOL
                         </h1>
-                        <p style="color:wheat;"> Where your child education is our priority</p>
+                        <h4 style="color:wheat; font-weight:bold;"> Where your child education is our priority</h4>
                       --> 
                                     </div>
                                </div>
@@ -191,19 +194,63 @@ Thank you for taking the time to visit our website. If you have any questions or
 
                     <div class="carousel-item ">
                    
-                        <div class="col-sm-12 col-md-12" id="banner" style="background-image:linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)),url('../assets/img/p1.jpg');"> 
+                        <div class="col-12" id="banner" style="background-image:linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)),url('../assets/img/p1.jpg');"> 
                             <div class="row">
-                                <div class="col-7">
+                                <div class="col-sm-12 col-md-6">
                                     <div id="banner_left">
                         <h1 style="color: white; font-family: monospace;  font-style:normal;">
-                            Empowering <br> Children to Believe in Themselves.
+                           <b> Empowering <br> Children to Believe in Themselves.</b>
                         </h1>
-                        <p style="color:wheat;"> We bring the best in them and make sure they are outstanding.</p>
-                        <button onclick="visit()" class="btn btn-warning btn-sm rounded-pill d-none d-md-block">Book a Visit</button>
+                        <h4 style="color:wheat;"> <b>We bring the best in them and make sure they are outstanding.</b></h4>
+                        <button onclick="visit()" class="btn btn-warning btn-sm rounded-pill d-none d-md-block"><b>Book a Visit</b></button>
                                     </div>
                                 </div>
                             </div>
                         </div>
+                    </div>
+
+                    <div class="carousel-item">
+                        <div class="col-12" id="banner" style="background-image:linear-gradient(rgba(0, 0, 0, 0.20),rgba(0, 0, 0, 0.3)), url('../assets/img/nur.jpg');">
+                            <div class="row">
+                                 <div class="col-sm-12 col-md-6">
+                                     <div id="banner_left"> 
+                           <h1 style = "color:white; font-family: monospace;  font-style:normal"> <b>OUR KIDS IN <br> NURSERY SECTION </b>
+                        </h1>
+                        <h4 style="color:wheat; font-weight:bold;"> Learning in their classroom</h4>
+
+                                    </div>
+                               </div>
+                           </div>
+                        </div>                      
+                    </div>
+
+                    <div class="carousel-item">
+                        <div class="col-12" id="banner" style="background-image:linear-gradient(rgba(0, 0, 0, 0.20),rgba(0, 0, 0, 0.3)), url('../assets/img/pri.jpg');">
+                            <div class="row">
+                                 <div class="col-sm-12 col-md-6">
+                                     <div id="banner_left"> 
+                                     <h1 style = "color:white; font-family: monospace;  font-style:normal"> <b>PRIMARY SECTION OF </b>
+                        </h1>
+                        <h4 style="color:wheat; font-weight:bold;"> SANKT GEORG INTERNATIONAL SCHOOL</h4>
+                                    </div>
+                               </div>
+                           </div>
+                        </div>                      
+                    </div>
+
+                    <div class="carousel-item">
+                        <div class="col-12" id="banner" style="background-image:linear-gradient(rgba(0, 0, 0, 0.20),rgba(0, 0, 0, 0.3)), url('../assets/img/p2.jpg');">
+                            <div class="row">
+                                 <div class="col-sm-12 col-md-6">
+                                     <div id="banner_left"> 
+                                     <h1 style = "color:white; font-family: monospace;  font-style:normal"> <b>STUDENTS IN THE <br> SECONDARY SECTION </b>
+                        </h1>
+                        <h4 style="color:wheat; font-weight:bold;"> LEARNING IN THEIR CLASSROOM </br> AT SANK GEORG INTERNATIONAL SCHOOL</h4>
+                      --> 
+                                    </div>
+                               </div>
+                           </div>
+                        </div>                      
                     </div>                
                 </div>
                 <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -253,8 +300,8 @@ Thank you for taking the time to visit our website. If you have any questions or
 
                 <div class="col-sm-12 col-md-6" style="margin-top: 50px;border-left: 5px solid; border-left-color:#FFE5B4;">
                     <div style="padding-left: 40px; padding-right: 20px;">
-                        <p class = " text-danger" style="font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; font-size:30px;">About Sankt Georg International School</p>
-                        <h3 style="color:#4A0404;">Sankt Georg International School</h3>
+                        <h3 class = " text-danger" style="font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; font-size: 30px;"><b>About Sankt Georg International School</b></h3>
+                        <h3 style="color:#4A0404; text-align:center;"><b>Sankt Georg International School</b></h3>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                         Sankt Georg International School (SGIS) Avu, Owerri West Local Government Area, Imo State, Nigeria, 
                         is a co-educational School owned by Echidime Hope For Future Foundation Nigeria, 
@@ -281,7 +328,7 @@ Thank you for taking the time to visit our website. If you have any questions or
     <div class="container-fluid">
         <div class="col-12 text-center mt-5 text-danger" >
             
-            <h1>Sankt Georg International School</h1>
+            <h1><b>Sankt Georg International School</b></h1>
         </div>
     </div>
 </div>
@@ -332,7 +379,7 @@ Thank you for taking the time to visit our website. If you have any questions or
 
                 <div class="col-sm-12 col-md-6" style="margin-top: 50px;">
                     <div class="text-center" style="padding-left: 40px; padding-right: 20px;">
-                        <h2 style="color:#4A0404;">Our Vision </h2>
+                        <h2 style="color:#4A0404;"><b>Our Vision </b> </h2>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                         To create opportunities for excellence by preparing young people to consistently and positively impact our world for the present and future generations. 
                         This would entail motivating and inspiring our students to access and imbibe knowledge that shapes their thought processes, 
@@ -342,7 +389,7 @@ Thank you for taking the time to visit our website. If you have any questions or
                         </p>
                     </div>
                     <div class="text-center" style="padding-left: 40px; padding-right: 20px;">
-                        <h2 style="color:#4A0404;">Our Mission </h2>
+                        <h2 style="color:#4A0404;"><b>Our Mission </b></h2>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                         To inspire and motivate our students, through the establishment of adequate behavioural support, to meet the moral, 
                         economic academic, sociocultural, 
@@ -368,8 +415,8 @@ Thank you for taking the time to visit our website. If you have any questions or
 
                 <div class="col-sm-12 col-md-6" style="margin-top: 100px;border-right: 5px solid; border-right-color:#FFE5B4;">
                     <div style="padding-left: 40px; padding-right: 20px;">
-                        <h2 style="color:#4A0404; font-family: 'Quicksand', sans-serif; text-align:center;">Sankt Georg International School </h2> 
-                        <h2 style="color:#4A0404; font-family: 'Quicksand', sans-serif; text-align:center;">(Nursery and Primary Section)</h2>
+                        <h2 style="color:#4A0404; font-family: 'Quicksand', sans-serif; text-align:center;"><b>Sankt Georg International School</b></h2> 
+                        <h2 style="color:#4A0404; font-family: 'Quicksand', sans-serif; text-align:center;"><b>(Nursery and Primary Section)</b></h2>
                         
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                         At Sankt Georg International School (Nursery/Primary Section), every child is valued and encouraged to reach their full potential. 
@@ -384,7 +431,7 @@ Thank you for taking the time to visit our website. If you have any questions or
                         The school's friendly and supportive atmosphere is reflected in its dedicated and passionate teachers, who go above and beyond to ensure that every child is supported and challenged to achieve their goals.
                         </p>
                         
-                        <button  class="btn btn-warning rounded-pill"><a href="/primary">Read more</a></button>
+                        <button  class="btn btn-warning rounded-pill"><a href="/primary"><b>Read more</b></a></button>
 
                     </div>
                 </div>
@@ -408,8 +455,8 @@ Thank you for taking the time to visit our website. If you have any questions or
             <div class="row">
                 <div class="col-sm-12 col-md-6" style="margin-top: 100px;border-right: 5px solid; border-right-color:#FFE5B4;">
                     <div  style="padding-left: 40px; padding-right: 20px; padding-bottom: 25px;">
-                        <h2 style="color:#4A0404; text-align:center;">Sankt Georg International School </h2>
-                        <h2 style="color:#4A0404; text-align:center;">(Secondary Section)</h2>
+                        <h2 style="color:#4A0404; text-align:center;"><b>Sankt Georg International School </b></h2>
+                        <h2 style="color:#4A0404; text-align:center;"><b>(Secondary Section)</b></h2>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                         At Sankt Georg International School (Secondary Section), academic excellence is the top priority. The school offers a rigorous and comprehensive curriculum that challenges students to reach their full potential. 
                         The teachers are highly qualified and experienced, 
@@ -428,7 +475,7 @@ Thank you for taking the time to visit our website. If you have any questions or
                             
                         </p>
 
-                        <button class="btn btn-warning rounded-pill"><a href="/secondary">Read more</a></button>
+                        <button class="btn btn-warning rounded-pill"><a href="/secondary"><b>Read more</b></a></button>
 
                         </div>
                         </div>
@@ -448,7 +495,7 @@ Thank you for taking the time to visit our website. If you have any questions or
 <div class="row" style = "background-color:#FFFEFA;">
     <div class="container-fluid mt-5">
         <div class="col-12 text-center mt-5 text-danger" >
-            <h1>What our parent says</h1>
+            <h1><b>What our parent says</b></h1>
             
         </div>
     </div>
@@ -460,15 +507,15 @@ Thank you for taking the time to visit our website. If you have any questions or
 <!--  Carousol -->
 <div class="row" style = "background-color:#FFFEFA;">
     <div class="container-fluid">
-        <div class="col-12 text-center mt-5" >
-            <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+        <div class="col-12" >
+            <div id="demo" class="carousel slide" data-ride="carousel">
                 <ol class="carousel-indicators">
-                  <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-                  <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-                  <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-                  <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+                  <li data-target="#demo" data-slide-to="0" class="active"></li>
+                  <li data-target="#demo" data-slide-to="1"></li>
+                  <li data-target="#demo" data-slide-to="2"></li>
+                  <li data-target="#demo" data-slide-to="3"></li>
                 </ol>
-                <div class="carousel-inner" style = "font-size:20px;">
+                <div class="carousel-inner text-center mt-5" style = "font-size:20px;">
                     <div class="carousel-item active">
                         <!-- <img class="rounded-circle" width="120px" height="120px" src="../assets/img/v62_5996.png" alt="..."> -->
                         <p style="margin-left: 10%; margin-right: 10%; font-family: 'Quicksand', sans-serif; ">
@@ -477,7 +524,7 @@ Thank you for taking the time to visit our website. If you have any questions or
                              Thanks to the transformation from members and staff of Sankt George International School. 
                             Sankt George International School is the best place to be
                             </p>
-                        <h5>MRS NWOKO CHINYERE</h5>
+                        <h5><b>MRS NWOKO CHINYERE</b></h5>
                         
                     </div>
 
@@ -488,7 +535,7 @@ Thank you for taking the time to visit our website. If you have any questions or
                             I had to pull him out of his previous school to continue at Sankt George International School. After the first term here,<br />
                              I’ve since more improvement both morally and academically
                         </p>
-                        <h5>DR. MRS. EBE TOCHUKWU</h5>
+                        <h5><b>DR. MRS. EBE TOCHUKWU</b></h5>
                     </div>
 
                     <div class="carousel-item">
@@ -498,7 +545,7 @@ Thank you for taking the time to visit our website. If you have any questions or
                              confident, and shows her eagerness to learn. <br />
                             It’s beautiful to watch as a parent                      
                         </p>
-                        <h5>MRS LILIAN OGUOMA</h5>
+                        <h5><b>MRS LILIAN OGUOMA</b></h5>
                     </div>
 
                     <div class="carousel-item">
@@ -507,15 +554,15 @@ Thank you for taking the time to visit our website. If you have any questions or
                             Among other things, one area I love about the administration is how spontaneous <br />
                             they are with improvement in areas parents raise concerns
                         </p>
-                        <h5>DR OGUOMA OKECHUKWU</h5>
+                        <h5><b>DR OGUOMA OKECHUKWU</b></h5>
                     </div>
                  
                 </div>
-                <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                <a class="carousel-control-prev" href="#demo" role="button" data-slide="prev">
                   <span class="carousel-control-prev-icon" aria-hidden="true" style = "background-color:red;"></span>
                   <span class="sr-only">Previous</span>
                 </a>
-                <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                <a class="carousel-control-next" href="#demo" role="button" data-slide="next">
                   <span class="carousel-control-next-icon" aria-hidden="true" style = "background-color:red;"></span>
                   <span class="sr-only">Next</span>
                 </a>
@@ -539,12 +586,27 @@ Thank you for taking the time to visit our website. If you have any questions or
 <!-- About Principal of School -->
 <div class="row">
     <div class="container=fluid">
-        <div class="col-12" >
+        <div class="col-12">
             <div class="row">
-            <div class="col-sm-12 col-md-6" style="margin-top: 40px;border-right: 5px solid; border-right-color:#FFE5B4;">
+            <div class="col-sm-12 col-md-6" style="margin-top: 40px; Margin-bottom:30px; border-right: 5px solid; border-right-color:#FFE5B4;" >
+                    <div class="container card" style = "width:500px; height:600px;">
+                        <img class="rounded img-fluid mx-auto image" src="../assets/img/schoolproprietor.jpg" style = "width:500px; height:600px;" />
+                        <div class="middle">
+                            <div class="text rounded">
+                            Rev Fr. Collins Anoka
+                                <p>School Proprietor</p>
+                            </div>
+                            
+                          </div>
+                    </div>
+                </div>
+
+                    
+
+            <div class="col-sm-12 col-md-6" style="margin-top: 40px;">
                     <div  style="padding-left: 40px; padding-right: 20px; padding-bottom: 25px;">
                         
-                        <h6 style = "color:#4A0404; font-weight: Bold; font-size:28px; text-align:center;">Our Staff</h6>
+                        <h5 style = "color:#4A0404; font-weight: Bold; text-align:center;">Our Staff</h5>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                         In the bid to actualize and realize our mission and vision, SGIS set out in search of quality in terms of Staff. 
                         It is evident, that the successes recorded by any organization eloquently testify to the high degree of commitment and tenacity of purpose of its staff and evidence of the administrative know-how of its managers 
@@ -562,22 +624,11 @@ Thank you for taking the time to visit our website. If you have any questions or
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                         The quality of our staff is clearly evident in the glittering academic, spiritual, and social transformation parents are witnessing in their children since the inception of the school.                
                         </p>
-                        <button  class="btn btn-warning rounded-pill"><a href="/staff">Read more</a></button>
+                        <button  class="btn btn-warning rounded-pill"><a href="/staff"><b>Read more</b></a></button>
                     </div>
                 </div>
 
-                <div class="col-sm-12 col-md-5" style="margin-top: 40px" >
-                    <div class="container card">
-                        <img class="rounded img-fluid mx-auto image" src="../assets/img/schoolproprietor.jpg"style ="width:500px; height:500px;" />
-                        <div class="middle">
-                            <div class="text rounded">
-                            Rev Fr. Collins Anoka
-                                <p>School Proprietor</p>
-                            </div>
-                            
-                          </div>
-                    </div>
-                </div>
+                
             </div>
         </div>
     </div>
@@ -606,7 +657,7 @@ Thank you for taking the time to visit our website. If you have any questions or
         </div>
 
     <div class="card-body text-center">
-        <h5 class="card-title">Rev Fr. Collins Anoka</h5>
+        <h5 class="card-title"><b>Rev Fr. Collins Anoka</b></h5>
       </div>
     </div>
     </div>
@@ -624,7 +675,7 @@ Thank you for taking the time to visit our website. If you have any questions or
                             </div>
                     
                         <div class="card-body text-center">
-                            <h5 class="card-title"> Mr. Jonathan O. Onwumere </h5>
+                            <h5 class="card-title"> <b>Mr. Jonathan O. Onwumere</b> </h5>
                           </div>
                     </div>
                 </div>
@@ -642,7 +693,7 @@ Thank you for taking the time to visit our website. If you have any questions or
                             </div>
                     
                         <div class="card-body text-center">
-                            <h5 class="card-title"> Mrs. Josephine Kelechi Onyenwe </h5>
+                            <h5 class="card-title"> <b>Mrs. Josephine Kelechi Onyenwe </b></h5>
                           </div>
                     </div>
                 </div>
@@ -662,7 +713,7 @@ Thank you for taking the time to visit our website. If you have any questions or
                             </div>
                     
                         <div class="card-body text-center">
-                            <h5 class="card-title">Mrs. Angela Ezebuiro</h5>
+                            <h5 class="card-title"><b>Mrs. Angela Ezebuiro</b></h5>
                           </div>
                     </div>
                 </div>

@@ -38,6 +38,8 @@
     font-size: 16px;
     padding: 16px 32px;
   }
+
+
 </style>
 <div class="row">
     <div class="container">
@@ -54,13 +56,13 @@
             <div class="row">
                 <div class="col-sm-12 col-md-6"  style=" margin-top: 50px;">
                    
-                   <img class="rounded img-fluid float-end" src="<?php echo e(url('/assets/img/cover.png')); ?>" style =" width:600px; margin-bottom:20px;" />
+                   <img class="rounded img-fluid float-end" src="<?php echo e(url('/assets/img/cover.png')); ?>" style = "width:640px; margin-bottom:20px;" />
                 </div>
 
                 <div class="col-sm-12 col-md-6" style="margin-top: 50px;border-left: 5px solid; border-left-color:#FFE5B4;">
-                    <div style="padding-left: 40px; padding-right: 20px;">
+                    <div style="padding-left: 20px; padding-right: 40px;">
                       
-                        <h3 style="color:#4A0404;">Sankt Georg International School</h3>
+                        <h3 style="color:#4A0404; text-align:center;"><b>Sankt Georg International School</b></h3>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                         Sankt Georg International School (SGIS) Avu, Owerri West Local Government Area, Imo State, Nigeria, 
                         is a co-educational School owned by Echidime Hope For Future Foundation Nigeria, 
@@ -84,9 +86,9 @@
     <div class="container-fluid">
         <div class="col-12" >
             <div class="row">
-                <div class="col-sm-12 col-md-6" style="margin-top: 50px;border-right: 5px solid; border-right-color:#FFE5B4;">
+                <div class="col-sm-12 col-md-6" style="margin-top: 50px; margin-bottom:20px; border-right: 5px solid; border-right-color:#FFE5B4;">
                     <div class="text-center" style="padding-left: 40px; padding-right: 20px;">
-                        <h2 style="color:#4A0404;">Our Vision </h2>
+                        <h2 style="color:#4A0404;"><b>Our Vision</b> </h2>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                         To create opportunities for excellence by preparing young people to consistently and positively impact our world for the present and future generations. 
                         This would entail motivating and inspiring our students to access and imbibe knowledge that shapes their thought processes, 
@@ -96,7 +98,7 @@
                         </p>
                     </div>
                     <div class="text-center" style="padding-left: 40px; padding-right: 20px;">
-                        <h2 style="color:#4A0404;">Our Mission </h2>
+                        <h2 style="color:#4A0404;"><b>Our Mission </b> </h2>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                         To inspire and motivate our students, through the establishment of adequate behavioural support, to meet the moral, 
                         economic academic, sociocultural, 
@@ -104,9 +106,15 @@
                         </p>
                     </div>
                 </div>
-                <div class="col-sm-12 col-md-6"  style=" margin-top: 50px;">
-                   <img class="rounded img-fluid float-start" src="../assets/img/facility1.png" style =" width:600px; margin-bottom:20px;" />
+                <div class="col-sm-12 col-md-6">
+                <video width="640" height="420" controls> 
+                   <source src="../assets/img/view.mp4" type = "video/mp4">
+                   <!-- add other video sources using type eg video/webm -->
+
+                   your browser does not support this video
+                   </video>
                 </div>
+               
 
                 
             </div>

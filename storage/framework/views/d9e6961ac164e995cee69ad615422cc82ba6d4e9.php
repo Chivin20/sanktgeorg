@@ -148,9 +148,7 @@ Bootstrap 4 breakpoints
                             <img class="rounded img-fluid mx-auto image" src="../assets/img/facility6.png" style="height:450px; weight:500px; margin-bottom:30px;" />
                             <div class="middle">
                                 <div class="text rounded">
-                                    Audio-Visual
-
-                                    <p>Laboratories</p>
+                                Multipurpose Hall
                                 </div>
                                 
                             </div>
@@ -183,8 +181,7 @@ Bootstrap 4 breakpoints
                             <img  class="rounded img-fluid mx-auto image" src="../assets/img/facility3.png"  style="height:450px; weight:500px;"/>
                             <div class="middle">
                                 <div class="text rounded">
-                                    Art 
-                                    <p>Laboratories</p>
+                                    Nursery Classroom
                                 </div>
                                 
                             </div>
@@ -201,7 +198,7 @@ Bootstrap 4 breakpoints
                             <img class="rounded img-fluid mx-auto image" src="../assets/img/facility4.png"  style="height:450px; weight:500px;"/>
                             <div class="middle">
                                 <div class="text rounded">
-                                    Class room
+                                    Primary Classroom
                                 </div>
                                 
                             </div>
@@ -277,7 +274,7 @@ Bootstrap 4 breakpoints
 <img class="rounded img-fluid mx-auto image" src="../assets/img/lab.jpg"  style="height:600px; weight:500px;"/>
 <div class="middle">
 <div class="text rounded">
-Physics Laboratory
+Chemistry Laboratory
 </div>
 
 </div>
@@ -292,7 +289,7 @@ Physics Laboratory
         <img class="rounded img-fluid mx-auto image" src="../assets/img/chem.jpg"  style="height:600px; weight:500px;"/>
         <div class="middle">
             <div class="text rounded">
-            Chemistry Laboratory
+            Physics Laboratory
             </div>
             
         </div>
@@ -307,7 +304,7 @@ Physics Laboratory
 <img class="rounded img-fluid mx-auto image" src="../assets/img/fineart.jpg"  style="height:600px; weight:500px;"/>
 <div class="middle">
 <div class="text rounded">
-Fine Art Laboratory
+Fine Arts Laboratory
 </div>
 
 </div>

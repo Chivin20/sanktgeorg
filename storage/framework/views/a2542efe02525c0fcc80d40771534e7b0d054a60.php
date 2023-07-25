@@ -111,7 +111,7 @@ Bootstrap 4 breakpoints
 <div class="row">
     <div class="container">
         <div class="col-6" style="font-family: 'Quicksand', sans-serif;">
-            <h1 class="text-danger text-center mt-3 pt-3" style="font-size: 40px;"><b>STUDENTS LIFE </b></h1>
+            <h1 class="text-danger text-center mt-3 pt-3" style="font-size: 40px;"><b>STUDENT'S LIFE </b></h1>
         </div>
     </div>
 </div>
@@ -138,9 +138,9 @@ Bootstrap 4 breakpoints
                 <div class="col-sm-12 col-md-5">
                     <div style="padding-left: 40px; padding-right: 20px; font-size: 16px; text-align: justify;">
                         
-                        <h4 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:30px;">School Anthem</h4>
+                        <h3 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:30px;"><b>School Anthem</b></h3>
                         <h6 style="font-family: 'Quicksand', sans-serif; color:#4A0404; font-size: 17px">
-                        Stanza 1
+                        <b>Stanza 1</b>
                         </h6>
                         <p>
                         Sankt Georg International School</br>
@@ -150,7 +150,7 @@ Bootstrap 4 breakpoints
                         On a mission to impact our world positively </p>
 
                         <h6 style="font-family: 'Quicksand', sans-serif; color:#4A0404; font-size: 17px">
-                        Refrain
+                        <b>Refrain</b>
                         </h6>
                         <p>
                         Looking for morality and integrity</br>
@@ -160,7 +160,7 @@ Bootstrap 4 breakpoints
                         Then come to Sankt Georg </p>
 
                         <h6 style="font-family: 'Quicksand', sans-serif; color:#4A0404; font-size: 17px">
-                        Stanza 2
+                        <b>Stanza 2 </b>
                         </h6>
                         <p>
                         We are world's best Pupils and Students</br>
@@ -170,7 +170,8 @@ Bootstrap 4 breakpoints
 
                         </div>
                                          
-                        <button class="btn btn-primary rounded-pill" style = "margin-left:20px;"> <a href = "<?php echo e(route('download.pdf')); ?>"> Download </a> </button>
+                        <button class="btn btn-primary rounded-pill" style = "margin-left:20px;"> <a href = "../downloads/SGIS.pdf" target = "_blank"> Download </a> </button>
+                        
                         </div>
                     </div>
                 </div>
@@ -189,7 +190,7 @@ Bootstrap 4 breakpoints
                
                 <div class="col-sm-12 col-md-12">
                     <div style="padding-left: 40px; padding-right: 20px; font-size: 16px;">
-                    <h4 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:30px;">Boarding Life</h4>
+                    <h4 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:30px;"><b>Boarding Life</b></h4>
 
                   <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                   In our boarding houses (Halls of Residence), we created a special and welcoming atmosphere for our students, 
@@ -206,52 +207,52 @@ Bootstrap 4 breakpoints
                         SGIS has come up with a well-balanced menu that ensures our students eat well and healthy. All these measures are geared towards fulfilling our vision of providing all-round development for the students of SGIS.
                         </p>
 
-                        <h4 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:30px;">Fees</h4>
+                        <h4 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:30px;"><b>Fees</b></h4>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                         Please, contact the School Bursar or any member of the School Management Team for further inquiries on this. </p>
-                        <h5 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:18px;"> Sibling Discount</h5>
+                        <h5 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:20px;"> <b>Sibling Discount</b></h5>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                         Where three or more siblings are pupils at the same time, a discount is offered by SGIS. 
                         Please contact the Bursar or the School Management for more inquiries. 
                         It is worth it to have all your children with us. 
                         </p>
 
-                        <h4 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:30px;">Extra-Curricular</h4>
-                        <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:18px;"> Religious Life</h6>
+                        <h4 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:30px;"><b>Extra-Curricular</b></h4>
+                        <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:20px;"> <b>Religious Life</b></h6>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                         The school works in collaboration with the religious congregation of the Franciscan Missionary Disciples of Christ (FMDC) who take care of the spiritual life of the students in the Halls of Residence. 
                         A catholic priest serves as the School Administrator and another catholic priest gives Moral and Religious Instructions to the students three times in a week.  
                         </p>
 
-                        <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:18px;">Retreats</h6>
+                        <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:20px;"><b>Retreats</b></h6>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                         The school organizes retreats once a year to strengthen the spiritual life of the students. The two-day retreat precedes the summer camping trip. During retreats, there are no interactions with those outside the group. 
                         This lack of interaction with the outside world creates room for concentration and reflection. This time is purposefully thought out to give the students the opportunity to reflect on their life and future.  
                         </p>
 
-                        <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:18px;">Carols</h6>
+                        <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:20px;"><b>Carols</b></h6>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                         Led by the students of the Music Club, the school organizes a Carol party yearly on the last day before the Christmas vacation. 
                         </p>
 
-                        <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:18px;">Sports</h6>
+                        <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:20px;"><b>Sports</b></h6>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                         Sports are promoted in the school. Every year, inter-school games are held, in which prizes are given out. 
                         Inter-house sports are held every year too, and all these are arranged in a manner that they do not interfere with academic work. 
                         Facilities and equipment are provided to the students through the sports master.
                         </p>
-                        <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:18px;">Socials</h6>
+                        <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:20px;"><b>Socials</b></h6>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                         Social events are organized for the students once a month. Events include Independence Day, children's day, Arts and Cultural festivities. Students are allowed to bring only two sets of mufti clothes, which may be worn during the socials. 
                         </p>
-                        <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:18px;">Clubs</h6>
+                        <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:20px;"><b>Clubs</b></h6>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                         In every session, students are assigned to different clubs. 
                         Clubs are created with teachers supervising them, such as Drama, Music, JETS, 
                         Young Farmers, Skill Acquisition, Literary and Debating, French, Arts, and more. Club meetings are held bi-weekly.
                         </p>
 
-                        <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:18px;">Project Exhibitions</h6>
+                        <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:20px;"><b>Project Exhibitions</b></h6>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                         The highlight of the academic year is the Project Exhibition which holds once a year. In this, 
                         parents are invited to the school to see projects done by their wards. 

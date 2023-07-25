@@ -1,6 +1,11 @@
 
 
 <?php $__env->startSection('content'); ?>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 
 <style>
     /*
@@ -44,7 +49,7 @@ Bootstrap 4 breakpoints
   @media (min-width: 1000px) { 
     #banner{
         width: 100%; 
-        height: 300px; 
+        height: 350px; 
         background-repeat: no-repeat; 
         background-size: 100%;
       }
@@ -122,7 +127,8 @@ Bootstrap 4 breakpoints
 <div class="row">
     <div class="container-fluid">
         <div class="col-12" style="margin-top: 50px; margin-bottom: 20px;" >
-                <div class="col-sm-12 col-md-5"  >
+                <div class = "row">
+                <div class="col-sm-12 col-md-6"  >
                    <!--  Carousol -->
             <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
                 <ol class="carousel-indicators">
@@ -133,27 +139,27 @@ Bootstrap 4 breakpoints
                 </ol>
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                    <div class="col-sm-12 col-md-4" id="banner" style="background-image:linear-gradient(rgba(0, 0, 0, 0.20),rgba(0, 0, 0, 0.3)), url('../assets/img/facility2.png');">
+                    <img id="banner" style="background-image:linear-gradient(rgba(0, 0, 0, 0.20),rgba(0, 0, 0, 0.3)), url('../assets/img/facility2.png');">
                       
-                       </div> 
+                       
                     </div>
 
                     <div class="carousel-item ">
-                    <div class="col-sm-12 col-md-4" id="banner" style="background-image:linear-gradient(rgba(0, 0, 0, 0.20),rgba(0, 0, 0, 0.3)), url('../assets/img/facility2.png');">
-                    </div> 
+                    <img id="banner" style="background-image:linear-gradient(rgba(0, 0, 0, 0.20),rgba(0, 0, 0, 0.3)), url('../assets/img/facility3.png');">
+                    
                     </div>
 
                     <div class="carousel-item">
-                    <div class="col-sm-12 col-md-4" id="banner" style="background-image:linear-gradient(rgba(0, 0, 0, 0.20),rgba(0, 0, 0, 0.3)), url('../assets/img/facility2.png');">
-                    </div> 
+                    <img id="banner" style="background-image:linear-gradient(rgba(0, 0, 0, 0.20),rgba(0, 0, 0, 0.3)), url('../assets/img/facility4.png');">
+                    
                     </div>
 
                     <div class="carousel-item">
-                    <div class="col-sm-12 col-md-4" id="banner" style="background-image:linear-gradient(rgba(0, 0, 0, 0.20),rgba(0, 0, 0, 0.3)), url('../assets/img/facility2.png');">
-                    </div> 
+                    <img id="banner" style="background-image:linear-gradient(rgba(0, 0, 0, 0.20),rgba(0, 0, 0, 0.3)), url('../assets/img/facility5.png');">
+                     
                     </div>
-                 
                 </div>
+
                 <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
                   <span class="carousel-control-prev-icon" aria-hidden="true" style = "background-color:red;"></span>
                   <span class="sr-only">Previous</span>
@@ -166,8 +172,8 @@ Bootstrap 4 breakpoints
         </div>
   
 <!-- end of Carousol -->
-                <div class="col-sm-12 col-md-7">
-                    <div style="padding-left: 40px; padding-right: 20px; font-size: 16px;">
+                <div class="col-sm-12 col-md-5">
+                    <div style="padding-left: 40px; padding-right: 20px; padding-top:20px; font-size: 16px;">
                         
                         <h5 style="color:#4A0404; font-family: 'Quicksand', sans-serif;"><b>Science Laboratories</b></h5>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
@@ -205,7 +211,7 @@ Bootstrap 4 breakpoints
             </div>
         </div>
     </div>
-
+</div>
 <!-- end of about Principal of School-->
 
 
@@ -255,7 +261,7 @@ Bootstrap 4 breakpoints
                             <img style="height:200px" class="rounded img-fluid mx-auto image" src="../assets/img/facility3.png" />
                             <div class="middle">
                                 <div class="text rounded">
-                                    Classroom
+                                    Nursery Classroom
                                 </div>
                                 
                             </div>
@@ -272,7 +278,7 @@ Bootstrap 4 breakpoints
                             <img style="height:200px" class="rounded img-fluid mx-auto image" src="../assets/img/facility4.png" />
                             <div class="middle">
                                 <div class="text rounded">
-                                    Classroom
+                                    Primary Classroom
                                 </div>
                                 
                             </div>
@@ -284,7 +290,7 @@ Bootstrap 4 breakpoints
         </div>
     </div>
     <div class="col-sm-12 col-md-3, d-flex align-items-center justify-content-center" style = "padding-bottom: 25px;">
-    <button class="btn btn-outline-danger rounded-pill bg-danger"><a href="/gallery">View More</a></button>
+    <button class="btn btn-primary rounded-pill bg-primary"><a href="/gallery">View More</a></button>
     </div>
 </div>
 <!-- end of about Principal of School-->

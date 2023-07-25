@@ -1,2 +1,3 @@
 C:/Users/user/Desktop/sanktgeorg/public/downloads/SGIS.pdf filter=lfs diff=lfs merge=lfs -text
+C:/Users/user/Desktop/sanktgeorg/public/assets/img/view.mp4 filter=lfs diff=lfs merge=lfs -text
 *.mp4 filter=lfs diff=lfs merge=lfs -text

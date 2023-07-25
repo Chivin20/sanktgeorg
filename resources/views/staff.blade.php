@@ -37,6 +37,12 @@
     font-size: 16px;
     padding: 16px 32px;
   }
+
+  .card{
+      height:350px;
+      margin-bottom:30px;
+    }
+
 </style>
 <div class="row">
     <div class="container">
@@ -52,10 +58,10 @@
             <div class="row">
                 <div class="col-sm-12 col-md-5">
                     <div class="container card">
-                        <img class="rounded img-fluid mx-auto image" src="../assets/img/schoolproprietor.jpg" style = "width:700px; height:900px;" />
+                        <img class="rounded img-fluid mx-auto image" src="../assets/img/schoolproprietor.jpg" style = "width500px; height:700px;" />
                         <div class="middle">
                             <div class="text rounded">
-                            Rev Fr. Victor Anoka
+                            Rev Fr. Collins Anoka
                                 <p>School Proprietor</p>
                             </div>
                             
@@ -66,7 +72,7 @@
                 <div class="col-sm-12 col-md-7">
                     <div style="padding-left: 40px; padding-right: 20px; font-size: 16px;">
                         
-                        <h4 style = "color:#4A0404;"><b>SCHOOL ADMINISTRATION</b></h4>
+                        <h3 style = "color:#4A0404;"><b>SCHOOL ADMINISTRATION</b></h3>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                         Sankt Georg International School has a well-structured administration that ensures effective management 
                         and smooth operation of the institution. The administration of Sankt Georg International School 
@@ -78,30 +84,30 @@
                         The administration can be divided into two main categories: 
                         The Management Board and The Staff Members.         
                         </p>
-                        <h4 style = "color:#4A0404;"><b>Management Board</b></h4>
+                        <h3 style = "color:#4A0404;"><b>Management Board</b></h3>
 
-                        <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:18px;">Head Teachers: </h6>  
+                        <h5 style="color:#4A0404; font-family: 'Quicksand', sans-serif;"><b>Head Teachers: </b></h5>  
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                         The management board includes the head teachers of the primary and 
                         secondary sections. They are responsible for overseeing the academic programs, 
                         curriculum development, and overall educational standards of their respective sections.          
                         </p>
 
-                        <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:18px;">School Administrator: </h6>  
+                        <h5 style="color:#4A0404; font-family: 'Quicksand', sans-serif;"><b>School Administrator: </b></h5>  
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                         The school administrator plays a crucial role in coordinating various 
                         administrative tasks. They manage day-to-day operations, handle logistics, ensure compliance 
                         with regulations, and provide support to both staff and students.         
                         </p>
 
-                        <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:18px;">School Manager:</h6>  
+                        <h5 style="color:#4A0404; font-family: 'Quicksand', sans-serif;"><b>School Manager:</b></h5>  
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                          The school manager oversees the overall administration of the school. 
                         They are responsible for budget management, resource allocation, facility maintenance, 
                         and strategic planning to enhance the school's performance.         
                         </p>
 
-                        <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:18px;">Hostel Administrators:</h6>  
+                        <h5 style="color:#4A0404; font-family: 'Quicksand', sans-serif;"><b>Hostel Administrators:</b></h5>  
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                          If Sankt Georg International School has boarding facilities, 
                         the hostel administrators are in charge of managing the hostels. 
@@ -109,14 +115,14 @@
                         and address any concerns related to boarding facilities.         
                         </p>
 
-                        <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:18px;">Parent-Teacher Association (PTA) Representative: </h6>  
+                        <h5 style="color:#4A0404; font-family: 'Quicksand', sans-serif;"><b>Parent-Teacher Association (PTA) Representative: </b></h5>  
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                         The PTA representative acts as a liaison between 
                         the school administration and the parents. They facilitate communication, organize events, and 
                         address parental concerns or suggestions.        
                         </p>
 
-                        <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:18px;">Head Boy/Girl: </h6>  
+                        <h5 style="color:#4A0404; font-family: 'Quicksand', sans-serif;"><b>Head Boy/Girl: </b></h5>  
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                         The head boy or girl is a student representative who may be included in the management board. 
                         They provide student perspectives, voice student concerns, and participate in decision-making processes.         
@@ -130,8 +136,8 @@
         </div>
         <div class="col-12">
                     <div style="padding-left: 40px; padding-right: 20px; font-size: 16px;">
-        <h4 style = "color:#4A0404;"><b>Staff Members</b></h4> </br>
-        <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:18px;">Teachers:</h6>         
+        <h3 style = "color:#4A0404;"><b>Staff Members</b></h3> </br>
+        <h5 style="color:#4A0404; font-family: 'Quicksand', sans-serif;"><b>Teachers:</b></h5>         
                         
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                         The teaching staff are responsible for delivering high-quality education to students. 
@@ -139,26 +145,26 @@
                         and collaborate with colleagues and administrators to ensure effective teaching and learning.                   
                         </p>
 
-                        <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:18px;">Support Teachers:</h6> 
+                        <h5 style="color:#4A0404; font-family: 'Quicksand', sans-serif;"><b>Support Teachers:</b></h5> 
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                         Support teachers work alongside regular teachers to provide additional assistance to students 
                         with special educational needs or learning challenges. They offer personalized support, modify teaching methods, 
                         and collaborate with teachers and parents to create an inclusive learning environment.                   
                         </p>
 
-                        <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:18px;">Security Personnel: </h6>     
+                        <h5 style="color:#4A0404; font-family: 'Quicksand', sans-serif;"><b>Security Personnel: </b></h5>     
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                         The security team ensures the safety and security of students, staff, and the school premises. 
                         They monitor access, implement safety protocols, respond to emergencies, and maintain a secure environment.                  
                         </p>
 
-                        <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:18px;">Drivers: </h6>     
+                        <h5 style="color:#4A0404; font-family: 'Quicksand', sans-serif;"><b>Drivers: </b></h5>     
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                         School drivers are responsible for transporting students to and from school, ensuring their safety during the commute. 
                         They follow designated routes, adhere to traffic regulations, and maintain a safe and comfortable transportation experience for students.                  
                         </p>
 
-                        <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:18px;">Kitchen Staff: </h6>     
+                        <h5 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:18px;"><b>Kitchen Staff: </b></h5>     
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                         The kitchen staff manage the school's cafeteria and food services. They plan and prepare nutritious meals, 
                         maintain food hygiene standards, cater to dietary requirements, and ensure a healthy and pleasant dining experience for students and staff.                   
@@ -182,12 +188,32 @@
 <div class="row">
     <div class="container-fluid">
         <div class="col-12" style="margin-top: 20px; margin-bottom: 20px;" >
-            <div class="row d-flex flex-row flex-nowrap overflow-auto">
+            <div class="row d-flex flex-row">
             <div class="col-sm-12 col-md-3"  >
 
 <div class="card">
     
-        <img class="rounded img-fluid mx-auto image" style="height:200px ; width:200px;" src="../assets/img/schoolprincipal.jpg" />
+        <img class="rounded img-fluid mx-auto image" style="height:220px ; width:200px;" src="../assets/img/schoolproprietor.jpg" />
+        <div class="middle">
+            <div class="text rounded">
+            
+                <p>School Proprietor</p>
+            </div>
+            
+        </div>
+
+    <div class="card-body text-center">
+        <h5 class="card-title"><b>Rev Fr. Collins Anoka</b></h5>
+        
+      </div>
+</div>
+</div>
+
+<div class="col-sm-12 col-md-3"  >
+
+<div class="card">
+    
+        <img class="rounded img-fluid mx-auto image" style="height:220px ; width:200px;" src="../assets/img/schoolprincipal.jpg" />
         <div class="middle">
             <div class="text rounded">
             
@@ -208,7 +234,7 @@
 
                     <div class="card">
                         
-                            <img class="rounded img-fluid mx-auto image" style="height:200px ; width:200px;" src="../assets/img/primaryHeadTeacher.png" />
+                            <img class="rounded img-fluid mx-auto image" style="height:220px ; width:200px;" src="../assets/img/primaryHeadTeacher.png" />
                             <div class="middle">
                                 <div class="text rounded">
                                 
@@ -229,7 +255,7 @@
 
                     <div class="card">
                         
-                            <img class="rounded img-fluid mx-auto image" style="height:200px ; width:200px;" src="../assets/img/schoolmanager.jpg" />
+                            <img class="rounded img-fluid mx-auto image" style="height:220px ; width:200px;" src="../assets/img/schoolmanager.jpg" />
                             <div class="middle">
                                 <div class="text rounded">
                                     <p>School Manager</p>
@@ -251,7 +277,7 @@
 
                     <div class="card">
                         
-                            <img class="rounded img-fluid mx-auto image" style="height:200px ; width:200px;" src="../assets/img/hosteladmin1.jpg" />
+                            <img class="rounded img-fluid mx-auto image" style="height:220px ; width:200px;" src="../assets/img/hosteladmin1.jpg" />
                             <div class="middle">
                                 <div class="text rounded">
                                     
@@ -272,7 +298,7 @@
 
                     <div class="card">
                         
-                            <img class="rounded img-fluid mx-auto image" style="height:200px ; width:200px;" src="../assets/img/hosteladmin2.jpg" />
+                            <img class="rounded img-fluid mx-auto image" style="height:220px ; width:200px;" src="../assets/img/hosteladmin2.jpg" />
                             <div class="middle">
                                 <div class="text rounded">
                                    
@@ -293,7 +319,7 @@
 
 <div class="card">
     
-        <img class="rounded img-fluid mx-auto image" style="height:200px ; width:200px;" src="../assets/img/chika.jpg" />
+        <img class="rounded img-fluid mx-auto image" style="height:220px ; width:200px;" src="../assets/img/chika.jpg" />
         <div class="middle">
             <div class="text rounded">
                
@@ -332,12 +358,12 @@
     <div class="container-fluid">
         <div class="col-12" style="margin-top: 20px; margin-bottom: 20px;" >
           
-            <div class="row d-flex flex-row flex-nowrap overflow-auto">
+            <div class="row d-flex flex-row">
                 <div class="col-sm-12 col-md-3"  >
 
                     <div class="card">
                         
-                    <img class="rounded img-fluid mx-auto image" style="height:200px ; width:200px;" src="../assets/img/julia.jpg" />
+                    <img class="rounded img-fluid mx-auto image" style="height:220px ; width:200px;" src="../assets/img/julia.jpg" />
                             
                     
                         <div class="card-body text-center">
@@ -352,7 +378,7 @@
 
                     <div class="card">
                         
-                    <img class="rounded img-fluid mx-auto image" style="height:200px ; width:200px;" src="../assets/img/doris.jpg" />
+                    <img class="rounded img-fluid mx-auto image" style="height:220px ; width:200px;" src="../assets/img/doris.jpg" />
                            
                     <div class="card-body text-center">
                             <h5 class="card-title"><b>Anoka Doris Chinwe</b></h5>
@@ -366,7 +392,7 @@
 
                     <div class="card">
                         
-                    <img class="rounded img-fluid mx-auto image" style="height:200px ; width:200px;" src="../assets/img/gold.jpg" />
+                    <img class="rounded img-fluid mx-auto image" style="height:220px; width:200px;" src="../assets/img/gold.jpg" />
                     
                         <div class="card-body text-center">
                             <h5 class="card-title"><b>Madu Chizitere Gold</b></h5>
@@ -380,7 +406,7 @@
 
                     <div class="card">
                         
-                    <img class="rounded img-fluid mx-auto image" style="height:200px ; width:200px;" src="../assets/img/nene.jpg" />
+                    <img class="rounded img-fluid mx-auto image" style="height:220px; width:200px;" src="../assets/img/nene.jpg" />
                     
                         <div class="card-body text-center">
                             <h5 class="card-title"><b>Odibo Chinedu Nene </b></h5>
@@ -394,7 +420,7 @@
 
                     <div class="card">
                         
-                    <img class="rounded img-fluid mx-auto image" style="height:200px ; width:200px;" src="../assets/img/ihuoma.jpg" />
+                    <img class="rounded img-fluid mx-auto image" style="height:220px; width:200px;" src="../assets/img/ihuoma.jpg" />
                     
                         <div class="card-body text-center">
                             <h5 class="card-title"><b>Ihuoma Vincentia Nzubechi</b></h5>
@@ -407,7 +433,7 @@
 
                     <div class="card">
                         
-                    <img class="rounded img-fluid mx-auto image" style="height:200px ; width:200px;" src="../assets/img/chioma.jpg" />
+                    <img class="rounded img-fluid mx-auto image" style="height:220px ; width:200px;" src="../assets/img/chioma.jpg" />
                     
                         <div class="card-body text-center">
                             <h5 class="card-title"><b>Mrs Alaoma chioma</b></h5>
@@ -420,7 +446,7 @@
 
                     <div class="card">
                         
-                    <img class="rounded img-fluid mx-auto image" style="height:200px ; width:200px;" src="../assets/img/kelechi.jpg" />
+                    <img class="rounded img-fluid mx-auto image" style="height:220px ; width:200px;" src="../assets/img/kelechi.jpg" />
                     
                         <div class="card-body text-center">
                             <h5 class="card-title"><b>Alilonu Kelechi Pamela</b></h5>
@@ -433,7 +459,7 @@
 
                     <div class="card">
                         
-                    <img class="rounded img-fluid mx-auto image" style="height:200px ; width:200px;" src="../assets/img/ihe.jpg" />
+                    <img class="rounded img-fluid mx-auto image" style="height:220px; width:200px;" src="../assets/img/ihe.jpg" />
                     
                         <div class="card-body text-center">
                             <h5 class="card-title"><b>Iheanacho Ngozika</b></h5>
@@ -446,7 +472,7 @@
 
                     <div class="card">
                         
-                    <img class="rounded img-fluid mx-auto image" style="height:200px ; width:200px;" src="../assets/img/diala.jpg" />
+                    <img class="rounded img-fluid mx-auto image" style="height:220px; width:200px;" src="../assets/img/diala.jpg" />
                     
                         <div class="card-body text-center">
                             <h5 class="card-title"><b>Ifeanyi Diala</b></h5>
@@ -458,7 +484,7 @@
 
 <div class="card">
     
-<img class="rounded img-fluid mx-auto image" style="height:200px ; width:200px;" src="../assets/img/festina.jpg" />
+<img class="rounded img-fluid mx-auto image" style="height:220px; width:200px;" src="../assets/img/festina.jpg" />
 
     <div class="card-body text-center">
         <h5 class="card-title"><b>Festina Ibeawuchi</b></h5>
@@ -471,7 +497,7 @@
 
 <div class="card">
     
-<img class="rounded img-fluid mx-auto image" style="height:200px ; width:200px;" src="../assets/img/charity.jpg" />
+<img class="rounded img-fluid mx-auto image" style="height:220px; width:200px;" src="../assets/img/charity.jpg" />
 
     <div class="card-body text-center">
         <h5 class="card-title"><b>Ofurum Charity Nkechi</b></h5>

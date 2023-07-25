@@ -28,7 +28,7 @@ Bootstrap 4 breakpoints
   @media (min-width: 768px) {  
       #banner{
         width: 100%; 
-        height: 400px; 
+        height: 300px; 
         background-repeat: no-repeat; 
         background-size: 100%;
       }
@@ -44,7 +44,7 @@ Bootstrap 4 breakpoints
   @media (min-width: 1000px) { 
     #banner{
         width: 100%; 
-        height: 650px; 
+        height: 300px; 
         background-repeat: no-repeat; 
         background-size: 100%;
       }
@@ -120,51 +120,81 @@ Bootstrap 4 breakpoints
 
 <!-- About Principal of School -->
 <div class="row">
-    <div class="container">
+    <div class="container-fluid">
         <div class="col-12" style="margin-top: 50px; margin-bottom: 20px;" >
-            <div class="row">
                 <div class="col-sm-12 col-md-5"  >
-                    <div class="container card">
-                        <img class="rounded img-fluid mx-auto image" src="../assets/img/lab.jpg" width="300px"  />
-                        <div class="middle">
-                            <div class="text rounded">
-                                Laboratory
-                                
-                            </div>
-                            
-                          </div>
+                   <!--  Carousol -->
+            <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+                <ol class="carousel-indicators">
+                  <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                  <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                  <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+                  <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+                </ol>
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                    <div class="col-sm-12 col-md-4" id="banner" style="background-image:linear-gradient(rgba(0, 0, 0, 0.20),rgba(0, 0, 0, 0.3)), url('../assets/img/facility2.png');">
+                      
+                       </div> 
                     </div>
-                </div>
 
+                    <div class="carousel-item ">
+                    <div class="col-sm-12 col-md-4" id="banner" style="background-image:linear-gradient(rgba(0, 0, 0, 0.20),rgba(0, 0, 0, 0.3)), url('../assets/img/facility2.png');">
+                    </div> 
+                    </div>
+
+                    <div class="carousel-item">
+                    <div class="col-sm-12 col-md-4" id="banner" style="background-image:linear-gradient(rgba(0, 0, 0, 0.20),rgba(0, 0, 0, 0.3)), url('../assets/img/facility2.png');">
+                    </div> 
+                    </div>
+
+                    <div class="carousel-item">
+                    <div class="col-sm-12 col-md-4" id="banner" style="background-image:linear-gradient(rgba(0, 0, 0, 0.20),rgba(0, 0, 0, 0.3)), url('../assets/img/facility2.png');">
+                    </div> 
+                    </div>
+                 
+                </div>
+                <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                  <span class="carousel-control-prev-icon" aria-hidden="true" style = "background-color:red;"></span>
+                  <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                  <span class="carousel-control-next-icon" aria-hidden="true" style = "background-color:red;"></span>
+                  <span class="sr-only">Next</span>
+                </a>
+              </div>
+        </div>
+  
+<!-- end of Carousol -->
                 <div class="col-sm-12 col-md-7">
                     <div style="padding-left: 40px; padding-right: 20px; font-size: 16px;">
                         
-                        <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:20px;">Science Laboratories</h6>
+                        <h5 style="color:#4A0404; font-family: 'Quicksand', sans-serif;"><b>Science Laboratories</b></h5>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                         There are separate purpose-built laboratories for Physics, Chemistry, Basic Technology, Biology, and Mathematics subjects.
                         </p>
 
-                        <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:20px;">Art Laboratories</h6>
+                        <h5 style="color:#4A0404; font-family: 'Quicksand', sans-serif;"><b>Art Laboratories</b></h5>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                          There are separate purpose-built laboratories for Geography and Home Economics subjects.
                         </p>
 
-                        <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:20px;">Library</h6>
+                        <h5 style="color:#4A0404; font-family: 'Quicksand', sans-serif;"><b>Library</b></h5>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                          The secondary school section has a well-equipped spacious library with books from various fields to enable students to perform any research work. 
                         The library also serves as a quiet zone for students to study.
                         </p>
 
-                        <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:20px;">Audio-Visual Laboratory</h6>
+                        <h5 style="color:#4A0404; font-family: 'Quicksand', sans-serif;"><b>Audio-Visual Laboratory</b></h5>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                         The laboratory is equipped with a smart interactive board, projectors, surround sound system, and purpose-designed furniture
                         </p>
 
-                        <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:20px;">Language Laboratory</h6>
+                        <h5 style="color:#4A0404; font-family: 'Quicksand', sans-serif;"><b>Language Laboratory</b></h5>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                         The laboratory serves to enable students to learn new languages more effectively by using equipment that monitors their abilities in pronunciation and comprehension.
                         </p>
-                        <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:20px;">Agriculture</h6>
+                        <h5 style="color:#4A0404; font-family: 'Quicksand', sans-serif;"><b>Agriculture</b></h5>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                         There is a school farm and fish pond to promote the learning of agricultural science
                         </p>
@@ -175,7 +205,7 @@ Bootstrap 4 breakpoints
             </div>
         </div>
     </div>
-</div>
+
 <!-- end of about Principal of School-->
 
 
@@ -192,9 +222,7 @@ Bootstrap 4 breakpoints
                             <img style="height:200px" class="rounded img-fluid mx-auto image" src="../assets/img/facility6.png" />
                             <div class="middle">
                                 <div class="text rounded">
-                                    Audio-Visual
-
-                                    <p>Laboratories</p>
+                                    Multipurpose Hall
                                 </div>
                                 
                             </div>
@@ -227,8 +255,7 @@ Bootstrap 4 breakpoints
                             <img style="height:200px" class="rounded img-fluid mx-auto image" src="../assets/img/facility3.png" />
                             <div class="middle">
                                 <div class="text rounded">
-                                    Art 
-                                    <p>Laboratories</p>
+                                    Classroom
                                 </div>
                                 
                             </div>
@@ -245,7 +272,7 @@ Bootstrap 4 breakpoints
                             <img style="height:200px" class="rounded img-fluid mx-auto image" src="../assets/img/facility4.png" />
                             <div class="middle">
                                 <div class="text rounded">
-                                    Class room
+                                    Classroom
                                 </div>
                                 
                             </div>

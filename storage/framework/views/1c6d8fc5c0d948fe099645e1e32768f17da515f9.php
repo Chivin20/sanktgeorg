@@ -90,6 +90,8 @@
     margin: 2px 2px 2px 2px;   
     border: 2px;  
     } 
+
+    
 </style>
 <!-- Footer -->
 <footer class="page-footer font-small pt-4" style="color: white; background-color: #dc3645;; font-family: 'Quicksand', sans-serif;">
@@ -104,7 +106,7 @@
         <div class="col-md-6 mt-md-0 mt-3">
   
           <!-- Content -->
-          <h5 class="text-uppercase"> Sankt Georg School</h5>
+          <h5 class="text-uppercase"> Sankt Georg International School</h5>
           <div class="wrapingimage">   
             <img src="<?php echo e(url('/assets/img/SANKTGEORGE.png')); ?>" height="80px" width="80px" alt="logo">    
             </div>   
@@ -180,11 +182,22 @@
     
     
     <!-- Copyright -->
-    <div class="footer-copyright text-center py-3" style=" background-color: #a40606; background-image: linear-gradient(rgba(240, 99, 99, 0.527),rgba(241, 114, 114, 0.5))">© 2022 Copyright:
-      <a href="/">Sankt Georg School</a>
+    <div class="footer-copyright text-center py-3" style=" background-color: #a40606; background-image: linear-gradient(rgba(240, 99, 99, 0.527),rgba(241, 114, 114, 0.5))">
+    <p>&copy; <span id = "currentYear"> 2023 </span> Copyright: 
+      <a href="/">Sankt Georg International School</a>
+      </p>
     </div>
     <!-- Copyright -->
   
+  <script>
+  //get the current year
+  const currentYear = new Date().getFullYear();
+
+  //update the content of the element with the currentyear id
+  document.getElementById('currentYear').textContent = currentYear;
+
+  </script>
+
   </footer>
   <!-- Footer -->
 

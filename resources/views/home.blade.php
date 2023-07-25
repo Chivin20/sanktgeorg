@@ -119,6 +119,10 @@ Bootstrap 4 breakpoints
     max-height: 60vh;
   }
 
+  .card{
+      height:350px;
+      margin-bottom:30px;
+    }
      
   /*
   ::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -169,7 +173,7 @@ Thank you for taking the time to visit our website. If you have any questions or
                 </ol>
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <div class="col-12" id="banner" style="background-image:linear-gradient(rgba(0, 0, 0, 0.20),rgba(0, 0, 0, 0.3)), url('../assets/img/about.png');">
+                        <div class="col-sm-12 col-md-12" id="banner" style="background-image:linear-gradient(rgba(0, 0, 0, 0.20),rgba(0, 0, 0, 0.3)), url('../assets/img/about.png');">
                             <div class="row">
                                  <div class="col-7">
                                      <div id="banner_left"> 
@@ -177,7 +181,7 @@ Thank you for taking the time to visit our website. If you have any questions or
                             WELCOME TO </h1>
                            <h1 style = "color:white; font-family: monospace;  font-style:opaque; font-weight:Bold;"> SANKT GEORG INTERNATIONAL SCHOOL
                         </h1>
-                        <p style="color:wheat;"> Where your children education is our priority</p>
+                        <p style="color:wheat;"> Where your child education is our priority</p>
                       --> 
                                     </div>
                                </div>
@@ -187,7 +191,7 @@ Thank you for taking the time to visit our website. If you have any questions or
 
                     <div class="carousel-item ">
                    
-                        <div class="col-12" id="banner" style="background-image:linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)),url('../assets/img/p1.jpg');"> 
+                        <div class="col-sm-12 col-md-12" id="banner" style="background-image:linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)),url('../assets/img/p1.jpg');"> 
                             <div class="row">
                                 <div class="col-7">
                                     <div id="banner_left">
@@ -276,7 +280,7 @@ Thank you for taking the time to visit our website. If you have any questions or
 <div class="row">
     <div class="container-fluid">
         <div class="col-12 text-center mt-5 text-danger" >
-            <h1>Section of</h1>
+            
             <h1>Sankt Georg International School</h1>
         </div>
     </div>
@@ -321,7 +325,12 @@ Thank you for taking the time to visit our website. If you have any questions or
     <div class="container-fluid">
         <div class="col-12" >
             <div class="row">
-                <div class="col-sm-12 col-md-6" style="margin-top: 50px;border-right: 5px solid; border-right-color:#FFE5B4;">
+
+            <div class="col-sm-12 col-md-6"  style=" margin-top: 50px; border-right: 5px solid; border-right-color:#FFE5B4;">
+                   <img class="rounded img-fluid float-start" src="../assets/img/facility1.png" width="800px" />
+                </div>
+
+                <div class="col-sm-12 col-md-6" style="margin-top: 50px;">
                     <div class="text-center" style="padding-left: 40px; padding-right: 20px;">
                         <h2 style="color:#4A0404;">Our Vision </h2>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
@@ -341,9 +350,7 @@ Thank you for taking the time to visit our website. If you have any questions or
                         </p>
                     </div>
                 </div>
-                <div class="col-sm-12 col-md-6"  style=" margin-top: 50px;">
-                   <img class="rounded img-fluid float-start" src="../assets/img/facility1.png" width="800px" />
-                </div>
+                
 
                 
             </div>
@@ -358,12 +365,8 @@ Thank you for taking the time to visit our website. If you have any questions or
     <div class="container-fluid">
         <div class="col-12" >
             <div class="row">
-                <div class="col-sm-12 col-md-6"  style=" margin-top: 100px;">
-                   
-                   <img class="rounded img-fluid float-end" src="../assets/img/pri.jpg" width="800px" />
-                </div>
 
-                <div class="col-sm-12 col-md-6" style="margin-top: 100px;border-left: 5px solid; border-left-color:#FFE5B4;">
+                <div class="col-sm-12 col-md-6" style="margin-top: 100px;border-right: 5px solid; border-right-color:#FFE5B4;">
                     <div style="padding-left: 40px; padding-right: 20px;">
                         <h2 style="color:#4A0404; font-family: 'Quicksand', sans-serif; text-align:center;">Sankt Georg International School </h2> 
                         <h2 style="color:#4A0404; font-family: 'Quicksand', sans-serif; text-align:center;">(Nursery and Primary Section)</h2>
@@ -380,10 +383,17 @@ Thank you for taking the time to visit our website. If you have any questions or
                         The Nursery/Primary Section has a strong commitment to its community, with regular events and programs designed to foster a sense of belonging and collaboration among students, parents, and staff. 
                         The school's friendly and supportive atmosphere is reflected in its dedicated and passionate teachers, who go above and beyond to ensure that every child is supported and challenged to achieve their goals.
                         </p>
-                        <button  class="btn btn-warning rounded-pill d-none d-md-block"><a href="/primary">Read more</a></button>
+                        
+                        <button  class="btn btn-warning rounded-pill"><a href="/primary">Read more</a></button>
 
                     </div>
                 </div>
+                
+                <div class="col-sm-12 col-md-6"  style=" margin-top: 100px;">
+                   
+                   <img class="rounded img-fluid float-end" src="../assets/img/pri.jpg" width="800px" />
+                </div>
+
             </div>
         </div>
     </div>
@@ -397,7 +407,7 @@ Thank you for taking the time to visit our website. If you have any questions or
         <div class="col-12" >
             <div class="row">
                 <div class="col-sm-12 col-md-6" style="margin-top: 100px;border-right: 5px solid; border-right-color:#FFE5B4;">
-                    <div class="text-center" style="padding-left: 40px; padding-right: 20px; padding-bottom: 25px;">
+                    <div  style="padding-left: 40px; padding-right: 20px; padding-bottom: 25px;">
                         <h2 style="color:#4A0404; text-align:center;">Sankt Georg International School </h2>
                         <h2 style="color:#4A0404; text-align:center;">(Secondary Section)</h2>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
@@ -415,20 +425,22 @@ Thank you for taking the time to visit our website. If you have any questions or
                         Perhaps most importantly,our Secondary Section has a strong culture of respect, inclusivity, and kindness. 
                         Students are encouraged to treat each other with empathy and understanding, and the school provides a safe and supportive environment for all students to learn and grow. 
                         This culture is fostered by the school's dedicated faculty and staff, who serve as role models for students and help to create a positive and welcoming school community.
-
+                            
                         </p>
-                        <button class="btn btn-warning rounded-pill d-none d-md-block"><a href="/secondary">Read more</a></button>
-                    </div>
-                </div>
+
+                        <button class="btn btn-warning rounded-pill"><a href="/secondary">Read more</a></button>
+
+                        </div>
+                        </div>
+                  
                 <div class="col-sm-12 col-md-6"  style=" margin-top: 100px;">
                    <img class="rounded img-fluid float-start" src="../assets/img/p2.jpg" width="800px" />
                 </div>
-
-                
+                </div>               
             </div>
         </div>
     </div>
-</div>
+
 <!-- end of about Pre-School Nurser-->
 
 
@@ -518,7 +530,7 @@ Thank you for taking the time to visit our website. If you have any questions or
 <div class="row" style=" margin-top: 100px;">
     <div class="container-fluid  ">
         <div class="col-12 text-center text-danger" >
-            <h1>Meet our Staff</h1>
+            <h1 style = "font-weight:bold;">Meet our Staff</h1>
         </div>
     </div>
 </div>
@@ -526,26 +538,13 @@ Thank you for taking the time to visit our website. If you have any questions or
 
 <!-- About Principal of School -->
 <div class="row">
-    <div class="container">
-        <div class="col-12" style="margin-top: 50px; margin-bottom: 20px;" >
+    <div class="container=fluid">
+        <div class="col-12" >
             <div class="row">
-                <div class="col-sm-12 col-md-5"  >
-                    <div class="container card">
-                        <img class="rounded img-fluid mx-auto image" src="../assets/img/schoolproprietor.jpg" width="300px" />
-                        <div class="middle">
-                            <div class="text rounded">
-                            Rev Fr. Victor Anoka
-                                <p>School Proprietor</p>
-                            </div>
-                            
-                          </div>
-                    </div>
-                </div>
-
-                <div class="col-sm-12 col-md-7">
-                    <div style="padding-left: 40px; padding-right: 20px; font-size: 18px;">
+            <div class="col-sm-12 col-md-6" style="margin-top: 40px;border-right: 5px solid; border-right-color:#FFE5B4;">
+                    <div  style="padding-left: 40px; padding-right: 20px; padding-bottom: 25px;">
                         
-                        <h6 style = "font-weight: Bold;">Our Staff</h6>
+                        <h6 style = "color:#4A0404; font-weight: Bold; font-size:28px; text-align:center;">Our Staff</h6>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                         In the bid to actualize and realize our mission and vision, SGIS set out in search of quality in terms of Staff. 
                         It is evident, that the successes recorded by any organization eloquently testify to the high degree of commitment and tenacity of purpose of its staff and evidence of the administrative know-how of its managers 
@@ -563,7 +562,20 @@ Thank you for taking the time to visit our website. If you have any questions or
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                         The quality of our staff is clearly evident in the glittering academic, spiritual, and social transformation parents are witnessing in their children since the inception of the school.                
                         </p>
-                        <button  class="btn btn-warning rounded-pill d-none d-md-block"><a href="/staff">Read more</a></button>
+                        <button  class="btn btn-warning rounded-pill"><a href="/staff">Read more</a></button>
+                    </div>
+                </div>
+
+                <div class="col-sm-12 col-md-5" style="margin-top: 40px" >
+                    <div class="container card">
+                        <img class="rounded img-fluid mx-auto image" src="../assets/img/schoolproprietor.jpg"style ="width:500px; height:500px;" />
+                        <div class="middle">
+                            <div class="text rounded">
+                            Rev Fr. Collins Anoka
+                                <p>School Proprietor</p>
+                            </div>
+                            
+                          </div>
                     </div>
                 </div>
             </div>
@@ -578,7 +590,27 @@ Thank you for taking the time to visit our website. If you have any questions or
 <div class="row">
     <div class="container-fluid">
         <div class="col-12" style="margin-top: 50px; margin-bottom: 20px;" >
-        <div class="row d-flex flex-row flex-nowrap overflow-auto">
+        <div class="row d-flex flex-row">
+
+        <div class="col-sm-12 col-md-3"  >
+
+<div class="card">
+    
+        <img class="rounded img-fluid mx-auto image" style="height:195px ; width:200px;" src="../assets/img/schoolproprietor.jpg" />
+        <div class="middle">
+            <div class="text rounded">
+                
+                <p>School Proprietor</p>
+            </div>
+            
+        </div>
+
+    <div class="card-body text-center">
+        <h5 class="card-title">Rev Fr. Collins Anoka</h5>
+      </div>
+    </div>
+    </div>
+
                 <div class="col-sm-12 col-md-3"  >
 
                     <div class="card">
@@ -630,48 +662,7 @@ Thank you for taking the time to visit our website. If you have any questions or
                             </div>
                     
                         <div class="card-body text-center">
-                            <h5 class="card-title">Mrs. Angela Ezeuiro</h5>
-                          </div>
-                    </div>
-                </div>
-
-
-                <div class="col-sm-12 col-md-3"  >
-
-                    <div class="card">
-                        
-                            <img class="rounded img-fluid mx-auto image" style="height:195px ; width:200px;" src="../assets/img/hosteladmin1.jpg" />
-                            <div class="middle">
-                                <div class="text rounded">
-                                    
-                                    <p>Hostel Administrator</p>
-                                </div>
-                                
-                            </div>
-                    
-                        <div class="card-body text-center">
-                            <h5 class="card-title">Sr. Prisca Echefu FMDC</h5>
-                          </div>
-                    </div>
-                </div>
-
-
-                <div class="col-sm-12 col-md-3"  >
-
-                    <div class="card">
-                        
-                            <img class="rounded img-fluid mx-auto image" style="height:195px ; width:200px;" src="../assets/img/hosteladmin2.jpg" />
-                            <div class="middle">
-                                <div class="text rounded">
-                                    
-                                    <p>Hostel Administrator</p>
-                                </div>
-                                
-                            </div>
-                    
-                        <div class="card-body text-center">
-                            <h5 class="card-title">Sr. Patience Yakanu</h5>
-                            <!-- <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p> -->
+                            <h5 class="card-title">Mrs. Angela Ezebuiro</h5>
                           </div>
                     </div>
                 </div>

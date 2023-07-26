@@ -73,8 +73,3 @@ Route::get('/aboutus', function () {
     return view('aboutus');
 })->name('aboutus');
 
-Route::get('/generate-pdf', function () {
-    return view('PDFController@generatePDF');
-})->name('generate-pdf');
-
-Route::get('/download-pdf', 'DownloadController@downloadPdf')->name('download.pdf');

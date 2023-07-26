@@ -44,14 +44,13 @@
             </ul>
           </li>
 
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-              Admission
-            </a>
-            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <li class="nav-item">
+            <a class="nav-link" href="<?php echo e(route('calendar')); ?>" routerLink="/calendar" routerLinkActive="active">Calendar</a>
+          
+            <!--<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
               <li><a class="dropdown-item" href="<?php echo e(route('calendar')); ?>" routerLink="/calendar" routerLinkActive="active" >Calendar</a></li>
-              <!--<li><a class="dropdown-item" href="<?php echo e(route('fees')); ?>" routerLink="/Fees" routerLinkActive="active">Fees</a></li>
-            --></ul>
+              <li><a class="dropdown-item" href="<?php echo e(route('fees')); ?>" routerLink="/Fees" routerLinkActive="active">Fees</a></li>
+            </ul>-->
           </li>
 
           <li class="nav-item">

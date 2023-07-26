@@ -249,17 +249,16 @@
                 </div>
 
             </div>
+
+            <div class="col-sm-12 col-sm-3, d-flex justify-content-end" style = "margin-top: 25px;"> 
+        
+        <button class="btn btn-primary rounded-pill"><a href = "../downloads/PRICAL.pdf" target = "_blank"> Download </a> </button>
+      
+    </div>
+
         </div>
 
-       <div class="col-sm-12 col-sm-3, d-flex justify-content-end" style = "padding-bottom: 25px;"> 
-        <form action = "<?php echo e(route('generate-pdf')); ?>" method="GET">
-        <button class="btn btn-primary rounded-pill"> Download </button>
-        </form>
-
-        <?php if(isset($calendar)): ?>
-        <a href ="<?php echo e(pdfs('pdfs/' . $calendar)); ?>" download> Download PDF </a>
-        <?php endif; ?>
-    </div>
+       
     </div>
 </div>
 <!-- end of about Principal of School-->

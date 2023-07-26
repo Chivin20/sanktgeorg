@@ -249,17 +249,16 @@
                 </div>
 
             </div>
+
+            <div class="col-sm-12 col-sm-3, d-flex justify-content-end" style = "margin-top: 25px;"> 
+        
+        <button class="btn btn-primary rounded-pill"><a href = "../downloads/PRICAL.pdf" target = "_blank"> Download </a> </button>
+      
+    </div>
+
         </div>
 
-       <div class="col-sm-12 col-sm-3, d-flex justify-content-end" style = "padding-bottom: 25px;"> 
-        <form action = "{{ route('generate-pdf') }}" method="GET">
-        <button class="btn btn-primary rounded-pill"> Download </button>
-        </form>
-
-        @if(isset($calendar))
-        <a href ="{{ pdfs('pdfs/' . $calendar) }}" download> Download PDF </a>
-        @endif
-    </div>
+       
     </div>
 </div>
 <!-- end of about Principal of School-->

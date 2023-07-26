@@ -203,7 +203,15 @@
                         </div>
 
             </div>
+
         </div>
+
+        <div class="col-sm-12 col-sm-3, d-flex justify-content-end" style = "margin-top: 25px;"> 
+        
+        <button class="btn btn-primary rounded-pill"><a href = "../downloads/PARCAL.pdf" target = "_blank"> Download </a> </button>
+      
+    </div>
+    
     </div>
 </div>
 <!-- end of about Principal of School-->

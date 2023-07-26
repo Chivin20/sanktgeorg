@@ -202,7 +202,7 @@ Thank you for taking the time to visit our website. If you have any questions or
                            <b> Empowering <br> Children to Believe in Themselves.</b>
                         </h1>
                         <h4 style="color:wheat;"> <b>We bring the best in them and make sure they are outstanding.</b></h4>
-                        <button onclick="visit()" class="btn btn-warning btn-sm rounded-pill d-none d-md-block"><b>Book a Visit</b></button>
+                        <button onclick="visit()" class="btn btn-warning btn-sm rounded-pill">Book a Visit</button>
                                     </div>
                                 </div>
                             </div>
@@ -453,7 +453,7 @@ Thank you for taking the time to visit our website. If you have any questions or
     <div class="container-fluid">
         <div class="col-12" >
             <div class="row">
-                <div class="col-sm-12 col-md-6" style="margin-top: 100px;border-right: 5px solid; border-right-color:#FFE5B4;">
+                <div class="col-sm-12 col-md-6" style="margin-top: 100px; margin-bottom: 20px; border-right: 5px solid; border-right-color:#FFE5B4;">
                     <div  style="padding-left: 40px; padding-right: 20px; padding-bottom: 25px;">
                         <h2 style="color:#4A0404; text-align:center;"><b>Sankt Georg International School </b></h2>
                         <h2 style="color:#4A0404; text-align:center;"><b>(Secondary Section)</b></h2>
@@ -475,7 +475,7 @@ Thank you for taking the time to visit our website. If you have any questions or
                             
                         </p>
 
-                        <button class="btn btn-warning rounded-pill"><a href="/secondary"><b>Read more</b></a></button>
+                        <button class="btn btn-warning rounded-pill bg-none"><a href="/secondary"><b>Read more</b></a></button>
 
                         </div>
                         </div>
@@ -624,7 +624,7 @@ Thank you for taking the time to visit our website. If you have any questions or
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                         The quality of our staff is clearly evident in the glittering academic, spiritual, and social transformation parents are witnessing in their children since the inception of the school.                
                         </p>
-                        <button  class="btn btn-warning rounded-pill"><a href="/staff"><b>Read more</b></a></button>
+                        <button  class="btn btn-warning rounded-pill bg-none"><a href="/staff"><b>Read more</b></a></button>
                     </div>
                 </div>
 

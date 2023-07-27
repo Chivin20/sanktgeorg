@@ -21,10 +21,10 @@
                 <div class="shadow p-3 mb-2 bg-body rounded">
                     <div class="row">
                         <div class="col-3">
-                            <h5>Name</h5>
+                            <h5><b>Name</b></h5>
                         </div>
                         <div class="col-9">
-                            <h5>Date</h5>
+                            <h5><b>Date</b></h5>
                         </div>
                     </div>
                 </div>
